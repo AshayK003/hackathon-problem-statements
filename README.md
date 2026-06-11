@@ -5,7 +5,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub Repo Stars](https://img.shields.io/github/stars/AshayK003/hackathon-problem-statements?style=social&label=Star)](https://github.com/AshayK003/hackathon-problem-statements)
-[![Problems](https://img.shields.io/badge/problems-26-8A2BE2)](INDEX.md)
+[![Problems](https://img.shields.io/badge/problems-36-8A2BE2)](INDEX.md)
 [![Research Papers Cited](https://img.shields.io/badge/papers-150%2B-blue)](INDEX.md)
 [![Datasets Linked](https://img.shields.io/badge/datasets-100%2B-success)](INDEX.md)
 
@@ -13,13 +13,14 @@
 
 **Stop building chatbots and CRUD dashboards.** Build something that actually matters.
 
-This repository is the largest curated collection of **real-world hackathon problem statements** — 26 problems across 3 tracks, each grounded in actual data, peer-reviewed research, and serving real stakeholders. Not hypothetical. Not toy problems. Problems that affect millions — with datasets and APIs to start building today.
+This repository is the largest curated collection of **real-world hackathon problem statements** — 36 problems across 4 tracks, each grounded in actual data, peer-reviewed research, and serving real stakeholders. Not hypothetical. Not toy problems. Problems that affect millions — with datasets and APIs to start building today.
 
 | Track | Problems | Build Time | Best For |
 |-------|----------|-----------|----------|
 | 🌍 [Global South Impact](global-south-impact/) | **10 AI/ML** | 5–18 months | Teams with ML + domain expertise |
 | 🇺🇸 [US Civic Tech](us-civic-tech/) | **10 LLM/data** | 6–16 weeks | Teams building for consumer impact |
-| ⚡ [Rapid Prototypes](rapid-prototype/) | **6 engineering** | 2–6 weeks | Solo devs, weekend hackathons |
+| 🇮🇳 [India Impact](india-impact/) | **5 AI/agent** | 8–16 weeks | Solo devs with DPI API experience |
+| ⚡ [Rapid Prototypes](rapid-prototype/) | **11 engineering** | 2–6 weeks | Solo devs, weekend hackathons |
 
 ---
 
@@ -100,9 +101,25 @@ This repository is the largest curated collection of **real-world hackathon prob
 
 ---
 
+### 🇮🇳 [India Impact](india-impact/) — AI on India's DPI Layer
+
+**5 AI problems** targeting India's Digital Public Infrastructure (DPI). Unlike US civic tech (fragmented) or generic Global South problems (pre-DPI), India's plumbing is built — APIs exist for land records, court cases, agricultural prices, and 740+ government schemes. But the **intelligent application layer** is missing.
+
+| # | Problem | Type | MVP | Startup Potential |
+|---|---------|------|-----|------------------|
+| 01 | [Kisaan Marg — Mandi Price Intelligence](india-impact/kisaan-marg-mandi-price-intelligence.md) | Agmarknet API + LLM agent + WhatsApp | **10–12 wks** | ₹10,000 Cr/yr leakage |
+| 02 | [Vyavastha — MSME Compliance Copilot](india-impact/vyavastha-msme-compliance-copilot.md) | Regtech agent + API orchestration | **12–16 wks** | 6.45Cr customers |
+| 03 | [JalGuru — Water Quality Intelligence](india-impact/jalguru-water-quality-intelligence.md) | Geospatial ML + alerts | **8–10 wks** | Public health mission |
+| 04 | [Nyaya Sahayak — Court Case Navigator](india-impact/nyaya-sahayak-court-case-navigator.md) | eCourt API + LLM + WhatsApp | **8–12 wks** | 52M pending cases |
+| 05 | [Sarthak — Government Scheme Agent](india-impact/sarthak-government-scheme-agent.md) | Eligibility engine + DigiLocker | **8–10 wks** | ₹7.67L Cr in schemes |
+
+**🏁 Best startup bet:** [Vyavastha](india-impact/vyavastha-msme-compliance-copilot.md) (MSMEs pay ₹13–17L/yr for compliance — will pay for a cheaper alternative)
+
+---
+
 ### ⚡ [Rapid Prototypes](rapid-prototype/) — Build for Impact in a Weekend
 
-**6 non-AI ideas** scoped for solo developers and weekend hackathons. No AI, no computer vision — just solid engineering that changes lives. Pure CRUD, maps, WhatsApp bots, and data pipelines.
+**11 non-AI ideas** scoped for solo developers and weekend hackathons. No AI, no computer vision — just solid engineering that changes lives. Pure CRUD, maps, WhatsApp bots, and data pipelines.
 
 | # | Problem | Stack | Build Time | Learning Curve |
 |---|---------|-------|-----------|---------------|
@@ -112,6 +129,11 @@ This repository is the largest curated collection of **real-world hackathon prob
 | 04 | [Procurement Data Quality Monitor](rapid-prototype/procurement-data-quality-monitor.md) | Data Pipeline + Dashboard | **3–4 wks** | ★★☆☆☆ |
 | 05 | [Informal Worker Skills Passport](rapid-prototype/informal-worker-skills-passport.md) | Offline Mobile + QR | **4–6 wks** | ★★★☆☆ |
 | 06 | [School Resource Transparency Map](rapid-prototype/school-resource-transparency-map.md) | Offline Forms + Maps | **4–6 wks** | ★★★☆☆ |
+| **07** | [Annapurna — PDS Tracker](rapid-prototype/annapurna-pds-tracker.md) | WhatsApp + Maps + API | **4–6 wks** | ★★★☆☆ |
+| **08** | [RathLink — Waste Worker Platform](rapid-prototype/rathlink-waste-worker-platform.md) | QR + Offline Mobile | **4–6 wks** | ★★★☆☆ |
+| **09** | [BhuLekh — Land Records App](rapid-prototype/bhulekh-land-records-app.md) | API Search + Maps | **3–4 wks** | ★★☆☆☆ |
+| **10** | [Setu — Government Form Assistant](rapid-prototype/setu-government-form-assistant.md) | Form Engine + DigiLocker | **3–4 wks** | ★★☆☆☆ |
+| **11** | [JalSathi — Water Testing Network](rapid-prototype/jalsathi-water-testing-network.md) | Maps + SMS + Crowdsource | **4–6 wks** | ★★★☆☆ |
 
 **🏁 24-hour hackathon pick:** [Village Grain Bank Manager](rapid-prototype/village-grain-bank-manager.md) or [Medicine Stock Visibility](rapid-prototype/medicine-stock-visibility.md)
 
@@ -176,11 +198,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Three ways to contribute:
 | Build Time | What You Can Build |
 |-----------|-------------------|
 | **2–3 weeks** | Village Grain Bank, Medicine Stock Visibility |
-| **3–4 weeks** | Infrastructure Defect Reporter, Procurement Data Quality Monitor |
-| **4–6 weeks** | Informal Worker Skills Passport, School Resource Transparency Map |
+| **3–4 weeks** | Infrastructure Defect Reporter, Procurement Data Quality Monitor, BhuLekh, Setu |
+| **4–6 weeks** | Informal Worker Skills Passport, School Resource Transparency Map, Annapurna, RathLink, JalSathi |
 | **6–8 weeks** | CivicFeed, FOIAbot, PredatoryGuard, UtilityCoach, InformedYou |
-| **8–12 weeks** | Workers Compass, DecodeMyBill, ProSe Navigator, HousingKey |
-| **12–16 weeks** | SchoolEquityWatch, Climate-Resilient Housing |
+| **8–12 weeks** | Workers Compass, DecodeMyBill, ProSe Navigator, HousingKey, Kisaan Marg, JalGuru, Nyaya Sahayak, Sarthak |
+| **12–16 weeks** | SchoolEquityWatch, Climate-Resilient Housing, Vyavastha |
 | **5–7 months** | Procurement Fraud, Offline Crop Disease, School Resource Optimizer |
 | **6–8 months** | Maternal Health, Informal Waste, Post-Harvest Loss |
 | **8–10 months** | Harmful Algal Bloom Early Warning |
@@ -209,12 +231,15 @@ hackathon-problem-statements/
 ├── global-south-impact/       # 10 AI/ML problems for the developing world
 │   ├── README.md              # Track overview with quick-start guides
 │   └── 10 problem statements  # Each: problem, data, papers, OSS, criteria
+├── india-impact/              # 5 AI problems on India's DPI layer
+│   ├── README.md              # Track overview with quick-start guides
+│   └── 5 problem statements
 ├── us-civic-tech/             # 10 consumer/civic problems for the US
 │   ├── README.md              # Track overview with novelty scores
 │   └── 10 problem statements
-├── rapid-prototype/           # 6 engineering problems, 2–6 weeks each
+├── rapid-prototype/           # 11 engineering problems, 2–6 weeks each
 │   ├── README.md              # Track overview with week-by-week timelines
-│   └── 6 problem statements
+│   └── 11 problem statements
 ├── _PROBLEM_TEMPLATE.md       # Template for submitting new problems
 ├── INDEX.md                   # Master index — filterable by time, skill, domain
 ├── CONTRIBUTING.md            # How to contribute
@@ -228,10 +253,10 @@ hackathon-problem-statements/
 
 | Metric | Count |
 |--------|-------|
-| Total problem statements | **26** (and growing) |
-| Tracks | **3** (Global South AI, US Civic Tech, Rapid Prototypes) |
-| AI/ML problems | **20** |
-| Pure engineering problems | **6** |
+| Total problem statements | **36** (and growing) |
+| Tracks | **4** (Global South AI, US Civic Tech, India Impact, Rapid Prototypes) |
+| AI/ML problems | **25** |
+| Pure engineering problems | **11** |
 | Research papers cited | **150+** |
 | Datasets and APIs linked | **100+** |
 | Open-source adjacencies mapped | **50+** |
