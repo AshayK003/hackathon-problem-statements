@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these problem statements in your research, hackathon, or course, please cite this repository."
+title: "Hackathon Problem Statements — Real-World Problems for Impactful Projects"
+authors:
+  - family-names: "K"
+    given-names: "Ashay"
+    alias: "darkcharon3301"
+    website: "https://github.com/AshayK003"
+identifiers:
+  - type: url
+    value: "https://github.com/AshayK003/hackathon-problem-statements"
+repository-code: "https://github.com/AshayK003/hackathon-problem-statements"
+abstract: "A curated collection of 36 real-world problem statements for hackathons, capstone projects, and open-source contributions. Each problem is grounded in peer-reviewed research with linked datasets, affected stakeholder analysis, MVP scope, and risk assessment. Covers global health, agriculture, governance, water, education, legal access, and India-specific civic tech across 4 tracks: Global South Impact (10 AI/ML), US Civic Tech (10 LLM/data), India Impact (5 AI/agent), and Rapid Prototypes (11 non-AI engineering)."
+keywords:
+  - hackathon
+  - open-source
+  - problem-statements
+  - civic-tech
+  - machine-learning
+  - public-health
+  - education
+  - agriculture
+  - governance
+  - india-tech
+  - project-ideas
+license: MIT
+type: dataset
+url: "https://github.com/AshayK003/hackathon-problem-statements"
