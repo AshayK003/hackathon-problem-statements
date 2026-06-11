@@ -294,6 +294,14 @@ Not yet — that's the point. These are open problems waiting for a team to step
 
 ---
 
+## Developer Support
+
+If these problem statements help you build something meaningful — or you just want to say thanks — consider supporting the developer:
+
+<a href="https://chai4.me/darkcharon3301" target="_blank" title="Support darkcharon3301 on Chai4Me" style="display:inline-flex;flex-direction:column;align-items:center;justify-content:center;background:#ffffff;padding:8px 32px;border-radius:16px;text-decoration:none;border:1px solid #e5e7eb;box-shadow:0 4px 6px -1px rgba(0,0,0,0.05), 0 2px 4px -2px rgba(0,0,0,0.05);transition:transform 0.2s;"><img src="https://chai4.me/icons/wordmark.png" alt="Chai4Me" style="height:32px;object-fit:contain;margin-bottom:4px;"/><span style="color:#6b7280;font-family:sans-serif;font-size:14px;font-weight:600;">@darkcharon3301</span></a>
+
+---
+
 <div align="center">
 
 **⭐ [Star this repo](https://github.com/AshayK003/hackathon-problem-statements) — help the next team find a problem worth building.**
