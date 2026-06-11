@@ -1,154 +1,278 @@
 # 🏆 Hackathon Problem Statements
 
-### Real-world problems that matter. Ready to build.
+### Real-world problems that matter. Ready to build. Open for contributions.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Stars](https://img.shields.io/github/stars/AshayK003/hackathon-problem-statements?style=social)](https://github.com/AshayK003/hackathon-problem-statements)
+[![GitHub Repo Stars](https://img.shields.io/github/stars/AshayK003/hackathon-problem-statements?style=social&label=Star)](https://github.com/AshayK003/hackathon-problem-statements)
+[![Problems](https://img.shields.io/badge/problems-26-8A2BE2)](INDEX.md)
+[![Research Papers Cited](https://img.shields.io/badge/papers-150%2B-blue)](INDEX.md)
+[![Datasets Linked](https://img.shields.io/badge/datasets-100%2B-success)](INDEX.md)
+
+---
+
+**Stop building chatbots and CRUD dashboards.** Build something that actually matters.
+
+This repository is the largest curated collection of **real-world hackathon problem statements** — 26 problems across 3 tracks, each grounded in actual data, peer-reviewed research, and serving real stakeholders. Not hypothetical. Not toy problems. Problems that affect millions — with datasets and APIs to start building today.
+
+| Track | Problems | Build Time | Best For |
+|-------|----------|-----------|----------|
+| 🌍 [Global South Impact](global-south-impact/) | **10 AI/ML** | 5–18 months | Teams with ML + domain expertise |
+| 🇺🇸 [US Civic Tech](us-civic-tech/) | **10 LLM/data** | 6–16 weeks | Teams building for consumer impact |
+| ⚡ [Rapid Prototypes](rapid-prototype/) | **6 engineering** | 2–6 weeks | Solo devs, weekend hackathons |
 
 ---
 
 ## The Problem With Hackathons
 
-Most hackathon problem statements are one of:
-- **Underspecified** — "Build something with AI" (too vague to start)
-- **Over-engineered** — Requires months of prior infrastructure
-- **Fake** — Problems that don't exist outside a classroom
+**Most hackathon prompts fall into three failure modes:**
 
-This repo fixes that. Every problem statement here is:
-- **Real** — Grounded in actual data, stakeholders, and published research
-- **Concrete** — Specific enough to start building in one sitting
-- **Impactful** — Affects millions of people or billions of dollars
-- **Scoped** — Clear MVP with estimated build time
+| Failure Mode | Example | Why It Fails |
+|-------------|---------|-------------|
+| 🫗 **Underspecified** | *"Build something with AI for healthcare"* | Too vague to start building. Teams spend 50% of the event deciding what to do. |
+| 🏗️ **Over-engineered** | *"Build a federated learning platform for genomics"* | Requires months of prior infrastructure. Unbuildable in a weekend. |
+| 🎭 **Fake** | *"Airbnb for pets"* | Doesn't solve a real problem. Judges can smell it. Won't survive outside the classroom. |
+
+**This repo fixes all three.** Every problem statement here is:
+
+- ✅ **Real** — Grounded in actual data sources, government datasets, published research, and quantified stakeholders
+- ✅ **Concrete** — Specific enough to start building in one sitting. Datasets linked. Papers cited. Adjacent OSS mapped.
+- ✅ **Impactful** — Affects millions of people or billions of dollars. Every problem has a built-in "why this matters" case.
+- ✅ **Scoped** — Clear MVP timeline with success criteria. You know *exactly* what "done" looks like.
+- ✅ **Feasible** — Build-time estimated by complexity. AI vs non-AI labeled. Solo-friendly options available.
+
+---
+
+## Who This Is For
+
+| Audience | Why This Repo Exists For You |
+|----------|------------------------------|
+| **Hackathon participants** | Stop wasting 4 hours debating ideas. Pick a battle-tested problem from the list and start building in 15 minutes. |
+| **Hackathon organizers** | Ditch the vague theme. Drop real problem statements that produce working, fundable prototypes — not another todo app. |
+| **University clubs & CS departments** | Give students problems that connect coursework to real-world impact. Every problem links to papers and datasets. |
+| **Open-source contributors** | Find a problem you care about and start building. The repo is designed for low-friction contribution. |
+| **Indie developers & founders** | Each problem statement is a potential startup idea with identified stakeholders, market gaps, and monetization paths. |
+| **NGOs & government agencies** | Submit problems from the field. The `_PROBLEM_TEMPLATE.md` makes this a 15-minute contribution. |
 
 ---
 
 ## The Problem Sets
 
-### 🌍 [Global South Impact](global-south-impact/)
-**10 AI/ML projects** that solve invisible infrastructure problems in developing countries.
-| # | Problem | Impact | MVP |
-|---|---------|--------|-----|
-| 01 | [Maternal Health Risk Stratification](global-south-impact/maternal-health-risk-stratification.md) | 287K lives/year | 6-8mo |
-| 02 | [Public Procurement Fraud Detection](global-south-impact/public-procurement-fraud-detection.md) | $1.3-4T lost/year | 5-7mo |
-| 03 | [Informal Waste Sector Platform](global-south-impact/informal-waste-sector-platform.md) | 15-20M workers | 6-8mo |
-| 04 | [Post-Harvest Loss Intelligence](global-south-impact/post-harvest-loss-intelligence.md) | 30-40% food lost | 7-9mo |
-| 05 | [Harmful Algal Bloom Early Warning](global-south-impact/harmful-algal-bloom-early-warning.md) | 60% US lakes at risk | 8-10mo |
-| 06 | [Scientific Reproducibility Engine](global-south-impact/scientific-reproducibility-engine.md) | $28B/year wasted | 8-12mo |
-| 07 | [Offline Crop Disease Diagnostics](global-south-impact/offline-crop-disease-diagnostics.md) | 500M+ farmers | 5-7mo |
-| 08 | [Groundwater Depletion Forecasting](global-south-impact/groundwater-depletion-forecasting.md) | 2B+ people | 12-18mo |
-| 09 | [School Resource Allocation Optimizer](global-south-impact/school-resource-allocation-optimizer.md) | 65M US students | 5-7mo |
-| 10 | [Climate-Resilient Housing Design](global-south-impact/climate-resilient-housing-design.md) | 1B+ in slums | 10-14mo |
+### 🌍 [Global South Impact](global-south-impact/) — AI/ML for the Developing World
 
-### 🇺🇸 [US Civic Tech](us-civic-tech/)
-**10 consumer/civic projects** that navigate America's broken regulatory and social systems.
-| # | Problem | Novelty | MVP |
-|---|---------|---------|-----|
-| 01 | [CivicFeed — Public Comment Intelligence](us-civic-tech/civicfeed-public-comment-intelligence.md) | 9/10 | 6-8w |
-| 02 | [Workers Compass — Claim Navigator](us-civic-tech/workers-compass-claim-navigator.md) | 10/10 | 8-10w |
-| 03 | [FOIAbot — Public Records Assistant](us-civic-tech/foiabot-public-records-assistant.md) | 9/10 | 6w |
-| 04 | [DecodeMyBill — Medical Bill Intelligence](us-civic-tech/decodemybill-medical-bill-intelligence.md) | 7/10 | 10-12w |
-| 05 | [ProSe Navigator — Family Court Assistant](us-civic-tech/prose-navigator-family-court-assistant.md) | 8/10 | 8-12w |
-| 06 | [PredatoryGuard — Financial Analyzer](us-civic-tech/predatoryguard-financial-analyzer.md) | 9/10 | 6-8w |
-| 07 | [UtilityCoach — Energy Assistance Navigator](us-civic-tech/utilitycoach-energy-assistance-navigator.md) | 8/10 | 6w |
-| 08 | [HousingKey — Housing Program Navigator](us-civic-tech/housingkey-housing-program-navigator.md) | 8/10 | 10-12w |
-| 09 | [InformedYou — Consent Simplifier](us-civic-tech/informedyou-consent-simplifier.md) | 7/10 | 6w |
-| 10 | [SchoolEquityWatch — Funding Transparency](us-civic-tech/school-funding-transparency-analyzer.md) | 7/10 | 12-16w |
+**10 problems** that solve invisible infrastructure challenges in low-resource settings — where commercial SaaS doesn't compete because customers can't pay market rates.
 
-### ⚡ [Rapid Prototypes](rapid-prototype/)
-**6 non-AI ideas** that can be built solo in 2-6 weeks — perfect for weekend hackathons.
-| # | Problem | Type | Build Time |
-|---|---------|------|-----------|
-| 01 | [Village Grain Bank Manager](rapid-prototype/village-grain-bank-manager.md) | WhatsApp + CRUD | 2-3w |
-| 02 | [Medicine Stock Visibility](rapid-prototype/medicine-stock-visibility.md) | WhatsApp + Inventory | 2-4w |
-| 03 | [Infrastructure Defect Reporter](rapid-prototype/infrastructure-defect-reporter.md) | Maps + Workflow | 3-4w |
-| 04 | [Procurement Data Quality Monitor](rapid-prototype/procurement-data-quality-monitor.md) | Data Engineering | 3-4w |
-| 05 | [Informal Worker Skills Passport](rapid-prototype/informal-worker-skills-passport.md) | Offline Mobile | 4-6w |
-| 06 | [School Resource Transparency Map](rapid-prototype/school-resource-transparency-map.md) | Maps + Offline Forms | 4-6w |
+| # | Problem | Impact | Build Time | Tags |
+|---|---------|--------|-----------|------|
+| 01 | [Maternal Health Risk Stratification](global-south-impact/maternal-health-risk-stratification.md) | 287K maternal deaths/year | 6–8 mo | `health` `ML` `offline` |
+| 02 | [Public Procurement Fraud Detection](global-south-impact/public-procurement-fraud-detection.md) | $1.3–4T lost/year | 5–7 mo | `governance` `GNN` |
+| 03 | [Informal Waste Sector Platform](global-south-impact/informal-waste-sector-platform.md) | 15–20M informal workers | 6–8 mo | `environment` `CV` |
+| 04 | [Post-Harvest Loss Intelligence](global-south-impact/post-harvest-loss-intelligence.md) | 30–40% food lost | 7–9 mo | `agriculture` `IoT` |
+| 05 | [Harmful Algal Bloom Early Warning](global-south-impact/harmful-algal-bloom-early-warning.md) | 60% US lakes at risk | 8–10 mo | `water` `remote-sensing` |
+| 06 | [Scientific Reproducibility Engine](global-south-impact/scientific-reproducibility-engine.md) | $28B/year wasted | 8–12 mo | `science` `LLM` |
+| 07 | [Offline Crop Disease Diagnostics](global-south-impact/offline-crop-disease-diagnostics.md) | 500M+ farmers | 5–7 mo | `agriculture` `TFLite` `offline` |
+| 08 | [Groundwater Depletion Forecasting](global-south-impact/groundwater-depletion-forecasting.md) | 2B+ people | 12–18 mo | `water` `climate` `satellite` |
+| 09 | [School Resource Allocation Optimizer](global-south-impact/school-resource-allocation-optimizer.md) | 65M US students | 5–7 mo | `education` `optimization` |
+| 10 | [Climate-Resilient Housing Design](global-south-impact/climate-resilient-housing-design.md) | 1B+ in slums | 10–14 mo | `housing` `climate` `gen-AI` |
+
+**🏁 Fastest MVP:** [Offline Crop Disease Diagnostics](global-south-impact/offline-crop-disease-diagnostics.md) (TFLite on-device, 5–7 months, solo-buildable)
+
+---
+
+### 🇺🇸 [US Civic Tech](us-civic-tech/) — Consumer Advocates for Broken Systems
+
+**10 problems** that navigate America's most opaque consumer-facing systems — medical billing, workers' comp, family court, FOIA, public comments, predatory lending, housing assistance, and school funding. Every one affects millions, has public data available, and currently has **no open-source consumer advocate**.
+
+| # | Problem | Novelty | MVP Time | Why It Exists |
+|---|---------|---------|----------|---------------|
+| 01 | [CivicFeed — Public Comment Intelligence](us-civic-tech/civicfeed-public-comment-intelligence.md) | **9/10** | 6–8 wks | Agencies spend 3–6 person-weeks per docket reading comments |
+| 02 | [Workers Compass — Claim Navigator](us-civic-tech/workers-compass-claim-navigator.md) | **10/10** 🏆 | 8–10 wks | $50B industry, zero consumer competitors |
+| 03 | [FOIAbot — Public Records Assistant](us-civic-tech/foiabot-public-records-assistant.md) | **9/10** | 6 wks | Journalists spend months per FOIA request |
+| 04 | [DecodeMyBill — Medical Bill Intelligence](us-civic-tech/decodemybill-medical-bill-intelligence.md) | 7/10 | 10–12 wks | 80% of medical bills have errors |
+| 05 | [ProSe Navigator — Family Court Assistant](us-civic-tech/prose-navigator-family-court-assistant.md) | **8/10** | 8–12 wks | 70–80% self-represented in family court |
+| 06 | [PredatoryGuard — Financial Analyzer](us-civic-tech/predatoryguard-financial-analyzer.md) | **9/10** | 6–8 wks | $10B+ in scam losses/year |
+| 07 | [UtilityCoach — Energy Assistance Navigator](us-civic-tech/utilitycoach-energy-assistance-navigator.md) | **8/10** | 6 wks | 80% of eligible households never apply for LIHEAP |
+| 08 | [HousingKey — Housing Program Navigator](us-civic-tech/housingkey-housing-program-navigator.md) | **8/10** | 10–12 wks | 20M+ households with worst-case housing needs |
+| 09 | [InformedYou — Consent Simplifier](us-civic-tech/informedyou-consent-simplifier.md) | 7/10 | 6 wks | Consent forms written at college level; avg US adult reads at 8th grade |
+| 10 | [SchoolEquityWatch — Funding Transparency](us-civic-tech/school-funding-transparency-analyzer.md) | 7/10 | 12–16 wks | High-poverty districts receive 16% less funding — data is buried |
+
+**🏁 Most defensible:** [Workers Compass](us-civic-tech/workers-compass-claim-navigator.md) ($50B workers' comp industry, **zero** consumer-facing competitors)
+
+---
+
+### ⚡ [Rapid Prototypes](rapid-prototype/) — Build for Impact in a Weekend
+
+**6 non-AI ideas** scoped for solo developers and weekend hackathons. No AI, no computer vision — just solid engineering that changes lives. Pure CRUD, maps, WhatsApp bots, and data pipelines.
+
+| # | Problem | Stack | Build Time | Learning Curve |
+|---|---------|-------|-----------|---------------|
+| 01 | [Village Grain Bank Manager](rapid-prototype/village-grain-bank-manager.md) | Twilio + CRUD + Inventory | **2–3 wks** | ★☆☆☆☆ |
+| 02 | [Medicine Stock Visibility](rapid-prototype/medicine-stock-visibility.md) | WhatsApp/SMS + Inventory | **2–4 wks** | ★☆☆☆☆ |
+| 03 | [Infrastructure Defect Reporter](rapid-prototype/infrastructure-defect-reporter.md) | Maps + Escalation Workflow | **3–4 wks** | ★★☆☆☆ |
+| 04 | [Procurement Data Quality Monitor](rapid-prototype/procurement-data-quality-monitor.md) | Data Pipeline + Dashboard | **3–4 wks** | ★★☆☆☆ |
+| 05 | [Informal Worker Skills Passport](rapid-prototype/informal-worker-skills-passport.md) | Offline Mobile + QR | **4–6 wks** | ★★★☆☆ |
+| 06 | [School Resource Transparency Map](rapid-prototype/school-resource-transparency-map.md) | Offline Forms + Maps | **4–6 wks** | ★★★☆☆ |
+
+**🏁 24-hour hackathon pick:** [Village Grain Bank Manager](rapid-prototype/village-grain-bank-manager.md) or [Medicine Stock Visibility](rapid-prototype/medicine-stock-visibility.md)
 
 ---
 
 ## How to Use This Repo
 
-**For Hackathon Organizers:**
-Pick problems appropriate for your event's duration and your participants' skill level. Each problem has a clear MVP scope. The `rapid-prototype/` set is ideal for 24-48h events.
+### 🎯 For Hackathon Teams (5-minute start)
 
-**For Hackathon Participants:**
-1. Browse the sets → pick a problem that matches your team's skills
-2. Read the full problem statement → it has datasets, papers, and adjacent OSS
-3. Build the MVP → each problem has clear success criteria
-4. Contribute back → submit a PR with your implementation notes
+1. **How much time do you have?**
+   - **24–48 hours** → Go straight to [Rapid Prototypes](rapid-prototype/)
+   - **1–4 weeks** → Pick a [US Civic Tech](us-civic-tech/) problem
+   - **1–6 months** → Your pick — all tracks open
+2. **What's your team's skill stack?**
+   - Computer vision → [Global South Impact #3](global-south-impact/informal-waste-sector-platform.md), [#7](global-south-impact/offline-crop-disease-diagnostics.md)
+   - LLMs / NLP → [US Civic Tech #1–#10](us-civic-tech/) (all leverage LLMs differently)
+   - Full-stack, no ML → [Rapid Prototypes](rapid-prototype/) (pure engineering impact)
+3. **Read the problem statement** → datasets linked, papers cited, OSS to build on
+4. **Ship the MVP** → every problem has clear success criteria
+5. **Contribute back** → PR your implementation notes
 
-**For Contributors:**
-See [CONTRIBUTING.md](CONTRIBUTING.md) — we accept new problem statements via the template at `_PROBLEM_TEMPLATE.md`, improvements to existing statements, and implementation notes from teams who built a solution.
+### 🏫 For Organizers & Educators
+
+Pick problems proportional to your event duration:
+
+| Event Length | Recommended Track | Rationale |
+|-------------|------------------|-----------|
+| 24–48 hours | **Rapid Prototypes** | Fully buildable solo over a weekend |
+| 1 week | **US Civic Tech** (select 3–5) | LLM-powered, fast iteration |
+| 1–3 months | **Global South Impact** | Real ML, CV, or systems project |
+| Semester-long | **Any + mentorship** | Research-grade implementation |
+
+### 🤝 For Contributors
+
+See [CONTRIBUTING.md](CONTRIBUTING.md). Three ways to contribute:
+
+1. **Submit a new problem** — Use `_PROBLEM_TEMPLATE.md` (15-minute task)
+2. **Improve an existing one** — Add datasets, fix errors, add adjacent OSS
+3. **Implementation notes** — Built a solution? Share architecture, pitfalls, and lessons learned
 
 ---
 
-## What Makes These Different
+## What Makes This Different From Every Other Hackathon Problem List
 
 | Feature | This Repo | Typical Hackathon Problems |
 |---------|-----------|---------------------------|
-| Real data sources | ✅ Datasets + APIs linked | ❌ Vague |
-| Academic grounding | ✅ Papers cited per problem | ❌ None |
-| Stakeholder analysis | ✅ Who this affects + scale | ❌ None |
-| MVP scope | ✅ Weeks/months estimated | ❌ No scope |
-| Open-source adjacencies | ✅ What already exists | ❌ No landscape |
-| Tech feasibility | ✅ AI vs non-AI labeled | ❌ No guidance |
+| **Real data sources** | ✅ Every problem has linked datasets and API endpoints | ❌ Vague or absent |
+| **Academic grounding** | ✅ 150+ peer-reviewed papers cited across 26 problems | ❌ None |
+| **Stakeholder analysis** | ✅ Quantified: who's affected, at what scale, with sources | ❌ None |
+| **MVP scope** | ✅ Build time estimated in weeks or months per problem | ❌ "Build something cool" |
+| **Open-source adjacencies** | ✅ 50+ existing OSS projects mapped per track | ❌ No landscape awareness |
+| **AI vs non-AI labeled** | ✅ Clear labeling so teams pick by available skills | ❌ No guidance |
+| **Novelty scoring** | ✅ Every US Civic Tech problem scored 7–10/10 | ❌ None |
+| **Monetization paths** | ✅ B2G / B2B / open-core models for each prototype | ❌ None |
+| **Failure mode analysis** | ✅ "Why existing solutions fail" for every problem | ❌ None |
+| **Success criteria** | ✅ Checklist-style "what done looks like" per problem | ❌ None |
+
+---
+
+## Quick Navigation by Build Time
+
+| Build Time | What You Can Build |
+|-----------|-------------------|
+| **2–3 weeks** | Village Grain Bank, Medicine Stock Visibility |
+| **3–4 weeks** | Infrastructure Defect Reporter, Procurement Data Quality Monitor |
+| **4–6 weeks** | Informal Worker Skills Passport, School Resource Transparency Map |
+| **6–8 weeks** | CivicFeed, FOIAbot, PredatoryGuard, UtilityCoach, InformedYou |
+| **8–12 weeks** | Workers Compass, DecodeMyBill, ProSe Navigator, HousingKey |
+| **12–16 weeks** | SchoolEquityWatch, Climate-Resilient Housing |
+| **5–7 months** | Procurement Fraud, Offline Crop Disease, School Resource Optimizer |
+| **6–8 months** | Maternal Health, Informal Waste, Post-Harvest Loss |
+| **8–10 months** | Harmful Algal Bloom Early Warning |
+| **8–12 months** | Scientific Reproducibility Engine |
+| **12–18 months** | Groundwater Depletion Forecasting |
 
 ---
 
 ## Selection Criteria
 
-Every problem in this repo passed all of these filters:
+Every problem in this repo had to pass **all** of these filters:
 
-- **Not a chatbot wrapper, generic RAG, CRUD dashboard, note-taking tool, meeting summarizer, productivity app, AI code assistant, or social network clone**
-- Strong societal or economic impact
-- Existing datasets and/or research literature
-- AI/tech genuinely adds value (not a gimmick)
-- No saturated open-source solution already dominates
-- Technically feasible for a motivated team
+- ❌ **Not** a chatbot wrapper, generic RAG, CRUD dashboard, note-taking tool, meeting summarizer, productivity app, AI code assistant, or social network clone
+- ✅ Strong societal or economic impact (millions of people or billions of dollars)
+- ✅ Existing datasets **and/or** published research literature to ground the problem
+- ✅ AI/tech genuinely adds value — not a gimmick
+- ✅ No saturated open-source solution already dominates the space
+- ✅ Technically feasible for a motivated team (any skill level)
 
 ---
 
 ## Repo Structure
 
 ```
-problem-statements/
-├── global-south-impact/      # AI/ML for the developing world
-│   ├── README.md             # Track overview + skill requirements
+hackathon-problem-statements/
+├── global-south-impact/       # 10 AI/ML problems for the developing world
+│   ├── README.md              # Track overview with quick-start guides
+│   └── 10 problem statements  # Each: problem, data, papers, OSS, criteria
+├── us-civic-tech/             # 10 consumer/civic problems for the US
+│   ├── README.md              # Track overview with novelty scores
 │   └── 10 problem statements
-├── us-civic-tech/            # Consumer/civic for the US
-│   ├── README.md
-│   └── 10 problem statements
-├── rapid-prototype/          # Non-AI ideas for fast shipping
-│   ├── README.md
+├── rapid-prototype/           # 6 engineering problems, 2–6 weeks each
+│   ├── README.md              # Track overview with week-by-week timelines
 │   └── 6 problem statements
-├── _PROBLEM_TEMPLATE.md      # Template for new contributions
-├── INDEX.md                  # Searchable master index
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-└── LICENSE
+├── _PROBLEM_TEMPLATE.md       # Template for submitting new problems
+├── INDEX.md                   # Master index — filterable by time, skill, domain
+├── CONTRIBUTING.md            # How to contribute
+├── CODE_OF_CONDUCT.md         # Community standards
+└── LICENSE                    # MIT — free to use, fork, build
 ```
 
 ---
 
 ## Stats
 
-- **26** problem statements (and growing)
-- **3** tracks (Global South AI, US Civic Tech, Rapid Prototypes)
-- **20** AI/ML problems + **6** pure engineering problems
-- **150+** research papers cited
-- **100+** datasets and APIs linked
-- **50+** open-source adjacencies mapped
+| Metric | Count |
+|--------|-------|
+| Total problem statements | **26** (and growing) |
+| Tracks | **3** (Global South AI, US Civic Tech, Rapid Prototypes) |
+| AI/ML problems | **20** |
+| Pure engineering problems | **6** |
+| Research papers cited | **150+** |
+| Datasets and APIs linked | **100+** |
+| Open-source adjacencies mapped | **50+** |
+| Domains covered | **15** (health, agriculture, governance, education, water, housing, energy, labor, finance, science, legal, climate, transparency, infrastructure, environment) |
+| Shortest build time | **2 weeks** |
+| Longest build time | **18 months** |
+
+---
+
+## Frequently Asked Questions
+
+**Q: Are these actually buildable by a hackathon team?**  
+Yes. Every problem has a clear MVP scope. The [Rapid Prototypes](rapid-prototype/) are built specifically for 24–48 hour events. The [US Civic Tech](us-civic-tech/) problems are designed for LLM-powered fast iteration over weeks. The [Global South Impact](global-south-impact/) problems require more time but have the largest potential impact.
+
+**Q: I don't know ML. Can I still contribute?**  
+Absolutely. The entire [Rapid Prototypes](rapid-prototype/) track requires zero ML — just solid full-stack engineering. Plus, many [US Civic Tech](us-civic-tech/) problems can be tackled by integrating LLM APIs (you consume the model, you don't train one).
+
+**Q: Where do the problems come from?**  
+Systematic landscape analysis across 30+ domains, 70+ papers, and 50+ candidate problems by [AshayK003](https://github.com/AshayK003). Each problem was validated against real-world data sources, existing research, and stakeholder analysis.
+
+**Q: Can I submit a new problem?**  
+Yes — and we want you to. Use `_PROBLEM_TEMPLATE.md` and open a PR. See [CONTRIBUTING.md](CONTRIBUTING.md). We especially welcome problems from NGOs, government agencies, and domain experts.
+
+**Q: Can I fork this and use it for my own hackathon event?**  
+Yes — it's MIT licensed. Use it, remix it, customize it for your event. We'd appreciate a shoutout but legally you don't need one.
+
+**Q: Has anyone built a solution for any of these?**  
+Not yet — that's the point. These are open problems waiting for a team to step up. If you build one, submit implementation notes via PR.
 
 ---
 
 ## License
 
-MIT — use, fork, remix, build. If you start a company based on one of these, we'd love to hear about it.
+**MIT** — use, fork, remix, build a company on it. If you start a business based on one of these, [let us know](https://github.com/AshayK003) — we'd love to feature it.
 
 ---
 
-## Inspiration & Research
+<div align="center">
 
-These problem statements are the result of systematic landscape analysis across 30+ domains, 70+ papers, and 50+ candidate problems by [AshayK003](https://github.com/AshayK003). Research conducted June 2026.
+**⭐ [Star this repo](https://github.com/AshayK003/hackathon-problem-statements) — help the next team find a problem worth building.**
+
+[View Full Index](INDEX.md) · [Submit a Problem](_PROBLEM_TEMPLATE.md) · [Contribution Guide](CONTRIBUTING.md)
+
+</div>

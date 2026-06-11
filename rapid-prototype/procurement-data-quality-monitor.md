@@ -6,7 +6,7 @@ status: published
 # Open Procurement Data Quality Monitor
 
 > **Category:** Governance | Transparency
-> **Build time:** 3–4 weeks (solo vibe-coder)
+> **Build time:** 3–4 weeks (solo developer)
 
 ## The Problem
 

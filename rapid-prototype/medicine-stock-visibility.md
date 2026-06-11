@@ -6,7 +6,7 @@ status: published
 # Rural Medicine Stock Visibility Platform
 
 > **Category:** Public Health | Supply Chain
-> **Build time:** 2–4 weeks (solo vibe-coder)
+> **Build time:** 2–4 weeks (solo developer)
 
 ## The Problem
 

@@ -6,7 +6,7 @@ status: published
 # Public Infrastructure Defect Reporter & Escalation Tracker
 
 > **Category:** Infrastructure | Civic Tech
-> **Build time:** 3–4 weeks (solo vibe-coder)
+> **Build time:** 3–4 weeks (solo developer)
 
 ## The Problem
 

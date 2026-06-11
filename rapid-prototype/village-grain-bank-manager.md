@@ -6,7 +6,7 @@ status: published
 # Village Grain Bank Manager
 
 > **Category:** Agriculture | Food Security
-> **Build time:** 2–3 weeks (solo vibe-coder)
+> **Build time:** 2–3 weeks (solo developer)
 
 ## The Problem
 
@@ -57,7 +57,7 @@ The system is pure CRUD with inventory math — no AI, no computer vision, no co
 - **500M+ smallholder farmers** who lack formal financial infrastructure
 - National agricultural extension agencies
 
-## Why This Can Be Vibe-Coded
+## Why This Is Hackathon-Sized
 
 - **Pure CRUD with math** — no AI, no ML, no computer vision
 - **Single-tenant by default** — one grain bank per bot instance; no multi-tenant complexity

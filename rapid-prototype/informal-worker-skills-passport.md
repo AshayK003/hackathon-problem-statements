@@ -6,7 +6,7 @@ status: published
 # Informal Worker Skills Passport
 
 > **Category:** Labor | Livelihoods
-> **Build time:** 4–6 weeks (solo vibe-coder)
+> **Build time:** 4–6 weeks (solo developer)
 
 ## The Problem
 

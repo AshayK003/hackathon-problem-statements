@@ -6,7 +6,7 @@
 
 ## Why This Track
 
-Not every real-world problem needs AI. Some of the highest-impact tools are **pure data engineering, CRUD, maps, messaging, and workflow logic** — perfectly scoped for weekend hackathons, solo vibe-coding, or first-time open-source contributors.
+Not every real-world problem needs AI. Some of the highest-impact tools are **pure data engineering, CRUD, maps, messaging, and workflow logic** — perfectly scoped for weekend hackathons, solo development, or first-time open-source contributors.
 
 Each of these solves a pressing problem for **millions of underserved users** using technology that already works reliably.
 
@@ -45,7 +45,7 @@ These problems are intentionally AI-free:
 2. **More reliable** — Deterministic systems for life-critical inventory/health data
 3. **Faster to ship** — No model training, no data collection pipeline
 4. **Offline-first** — Runs where internet is unreliable
-5. **Vibe-codable** — Cursor/Claude can scaffold the entire app in one session
+5. **Rapidly prototypeable** — Cursor/Claude can scaffold the entire app in one session
 
 ## Monetization Patterns
 

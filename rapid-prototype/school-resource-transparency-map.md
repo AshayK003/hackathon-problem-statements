@@ -6,7 +6,7 @@ status: published
 # School Resource Transparency Map
 
 > **Category:** Education | Infrastructure
-> **Build time:** 4–6 weeks (solo vibe-coder)
+> **Build time:** 4–6 weeks (solo developer)
 
 ## The Problem
 
