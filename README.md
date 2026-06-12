@@ -2,25 +2,28 @@
 
 ### Real-world problems that matter. Ready to build. Open for contributions.
 
+This is the largest curated collection of **real-world hackathon problem statements** (46 problems across 5 tracks). Every problem is grounded in actual data, peer-reviewed research, and serves real stakeholders — not hypotheticals.
+
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub Repo Stars](https://img.shields.io/github/stars/AshayK003/hackathon-problem-statements?style=social&label=Star)](https://github.com/AshayK003/hackathon-problem-statements)
-[![Problems](https://img.shields.io/badge/problems-36-8A2BE2)](INDEX.md)
-[![Research Papers Cited](https://img.shields.io/badge/papers-150%2B-blue)](INDEX.md)
+[![GitHub Repo Stars](https://img.shields.io/badge/github-stars-social?style=social&label=Star)](https://github.com/AshayK003/hackathon-problem-statements)
+[![Problems](https://img.shields.io/badge/problems-46-8A2BE2)](INDEX.md)
+[![Research Papers Cited](https://img.shields.io/badge/papers-200%2B-blue)](INDEX.md)
 [![Datasets Linked](https://img.shields.io/badge/datasets-100%2B-success)](INDEX.md)
 
 ---
 
 **Stop building chatbots and CRUD dashboards.** Build something that actually matters.
 
-This repository is the largest curated collection of **real-world hackathon problem statements** — 36 problems across 4 tracks, each grounded in actual data, peer-reviewed research, and serving real stakeholders. Not hypothetical. Not toy problems. Problems that affect millions — with datasets and APIs to start building today.
+## The 5 Tracks
 
-| Track | Problems | Build Time | Best For |
-|-------|----------|-----------|----------|
-| 🌍 [Global South Impact](global-south-impact/) | **10 AI/ML** | 5–18 months | Teams with ML + domain expertise |
-| 🇺🇸 [US Civic Tech](us-civic-tech/) | **10 LLM/data** | 6–16 weeks | Teams building for consumer impact |
-| 🇮🇳 [India Impact](india-impact/) | **5 AI/agent** | 8–16 weeks | Solo devs with DPI API experience |
-| ⚡ [Rapid Prototypes](rapid-prototype/) | **11 engineering** | 2–6 weeks | Solo devs, weekend hackathons |
+| Track | Format | Build Time | Best For |
+|-------|--------|-----------|----------|
+| 🌍 [Global South Impact](global-south-impact/) | **10 AI/ML** problems | 5–18 months | Teams with ML + domain expertise |
+| 🇺🇸 [US Civic Tech](us-civic-tech/) | **10 LLM/data** problems | 6–16 weeks | Teams building for consumer impact |
+| 🇮🇳 [India Impact](india-impact/) | **5 AI/agent** problems | 8–16 weeks | Solo devs with DPI API experience |
+| 🧠 [Frontier AI Platforms](frontier-platforms/) | **10 AI-governance/health** problems | 2–6 months | Solo devs tackling systemic risks |
+| ⚡ [Rapid Prototypes](rapid-prototype/) | **11 engineering** problems | 2–6 weeks | Solo devs, weekend hackathons |
 
 ---
 
