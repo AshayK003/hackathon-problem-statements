@@ -1,8 +1,8 @@
-# 🏆 Hackathon Problem Statements
+# 🏆 Problem Statements Worth Building
 
-### Real-world problems that matter. Ready to build. Open for contributions.
+### Real-world problems for hackathons, college projects, and developer portfolios. Ready to build. Open for contributions.
 
-This is the largest curated collection of **real-world hackathon problem statements** (46 problems across 5 tracks). Every problem is grounded in actual data, peer-reviewed research, and serves real stakeholders — not hypotheticals.
+This is the largest curated collection of **real-world problem statements** (46 problems across 5 tracks) — built for hackathons, college major/minor projects, capstones, and developer portfolios. Every problem is grounded in actual data, peer-reviewed research, and serves real stakeholders — not hypotheticals.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -53,10 +53,62 @@ This is the largest curated collection of **real-world hackathon problem stateme
 |----------|------------------------------|
 | **Hackathon participants** | Stop wasting 4 hours debating ideas. Pick a battle-tested problem from the list and start building in 15 minutes. |
 | **Hackathon organizers** | Ditch the vague theme. Drop real problem statements that produce working, fundable prototypes — not another todo app. |
-| **University clubs & CS departments** | Give students problems that connect coursework to real-world impact. Every problem links to papers and datasets. |
+| **College students (minor projects)** | Need a 1-semester project that actually works? Every Rapid Prototype and most US Civic Tech problems are scoped to build in 6–16 weeks with clear success criteria. No fluff. |
+| **College students (major projects / capstone)** | Looking for something with enough depth for a year-long thesis? Global South Impact and Frontier AI Platform problems have research citations, data sources, and evaluation frameworks built in. |
+| **Portfolio builders** | Want a GitHub that gets you hired? These problems produce demonstrable, real-world projects — not another CRUD dashboard. Recruiters pay attention when you can say "I built a fraud detection system used by X people." |
+| **University clubs & CS departments** | Give students problems that connect coursework to real-world impact. Every problem links to papers and datasets with clear scope for a semester project. |
 | **Open-source contributors** | Find a problem you care about and start building. The repo is designed for low-friction contribution. |
 | **Indie developers & founders** | Each problem statement is a potential startup idea with identified stakeholders, market gaps, and monetization paths. |
 | **NGOs & government agencies** | Submit problems from the field. The `_PROBLEM_TEMPLATE.md` makes this a 15-minute contribution. |
+
+---
+
+## 🎓 For College Students & Portfolio Builders
+
+This repo was built for you as much as for hackathon teams. Here's how to pick the right problem for your context.
+
+### By Academic Scope
+
+| Project Type | Timeframe | Recommended Track | Why |
+|-------------|-----------|------------------|-----|
+| **Minor Project** (1 semester) | 8–16 weeks | [Rapid Prototypes](rapid-prototype/) or [US Civic Tech](us-civic-tech/) | Scoped for solo development. Clear MVP. No research phase needed. |
+| **Major Project** (2 semesters) | 16–32 weeks | [India Impact](india-impact/) or [Frontier AI Platforms](frontier-platforms/) | Real API integration, multiple components. Enough depth for a proper evaluation. |
+| **Capstone / Thesis** (1 academic year) | 6–18 months | [Global South Impact](global-south-impact/) or [Frontier AI Platforms](frontier-platforms/) | Research-grounded. Papers to cite. Datasets to analyze. Genuine open-endedness. |
+| **Portfolio project** | As long as it takes | Any track — pick what excites you | Pick something you can demo end-to-end. A solved problem with real data beats a half-baked complex idea. |
+
+### Choosing the Right Problem — A Framework
+
+Not every problem fits every student. Use this filter:
+
+```
+Academic level → Available time → Skills you want to learn → Domain you care about → Pick 3 problems → Read all 3 → Build the one that excites you most
+```
+
+**Minor project checklist:**
+- [ ] Can I build the MVP in <10 weeks?
+- [ ] Do I already know 70% of the tech stack?
+- [ ] Is there a working demo I can show in 2 minutes?
+- [ ] Does it produce something someone could actually use?
+
+**Major project / thesis checklist:**
+- [ ] Are there enough research papers to build a literature review? (→ Global South, Frontier AI)
+- [ ] Is there real data I can access? (→ all problems link datasets)
+- [ ] Can I frame an evaluation (A/B test, benchmark, user study)?
+- [ ] Will I still be excited about this in month 5?
+
+### Portfolio Strategy
+
+A GitHub portfolio with one of these problems says more than five tutorial projects. Here's why:
+
+| Instead of building… | Build one of these… | Why it wins |
+|---------------------|---------------------|-------------|
+| A weather dashboard (tutorial clone) | [CivicFeed](us-civic-tech/civicfeed-public-comment-intelligence.md) — Public Comment AI | Production NLP + government API. Real stakeholder. |
+| A Twitter clone (everyone's done it) | [FOIAbot](us-civic-tech/foiabot-public-records-assistant.md) — FOIA Assistant | Legal tech. Document intelligence. Zero competitors. |
+| A CRUD todo app | [Village Grain Bank](rapid-prototype/village-grain-bank-manager.md) — WhatsApp Banking for Farmers | Offline-first architecture. Real users. Actual impact. |
+| A chatbot wrapper | [DecodeMyBill](us-civic-tech/decodemybill-medical-bill-intelligence.md) — Medical Bill Parser | Domain expertise signal. Healthcare + OCR + LLMs. |
+| An e-commerce site | [Vyavastha](india-impact/vyavastha-msme-compliance-copilot.md) — MSME Compliance Copilot | B2B SaaS potential. Multiple API integrations. |
+
+**Pro tip:** Contribute your implementation notes back as a PR. A repo that shows both "built this" and "documented how" is the kind of candidate teams fight over.
 
 ---
 
@@ -120,6 +172,27 @@ This is the largest curated collection of **real-world hackathon problem stateme
 
 ---
 
+### 🧠 [Frontier AI Platforms](frontier-platforms/) — AI Governance, Health & Systemic Risk
+
+**10 problems** at the frontier of AI application — algorithmic auditing, antimicrobial resistance, clinical trial equity, dementia care, wildfire resilience, and more. These sit where AI capability meets systemic risk. Each problem has a clear regulatory or scientific framework behind it.
+
+| # | Problem | Domain | Build Time | Stack |
+|---|---------|--------|-----------|-------|
+| 01 | [Algorithmic Bias Auditing Platform](frontier-platforms/algorithmic-bias-auditing-platform.md) | AI governance | 2–3 mo | AIF360, FairLearn, SHAP |
+| 02 | [Youth Mental Health Crisis Triage](frontier-platforms/youth-mental-health-crisis-triage.md) | Mental health | 3–4 mo | NLP, risk models |
+| 03 | [Clinical Trial Matching & Patient Equity](frontier-platforms/clinical-trial-matching-equity.md) | Health equity | 3–4 mo | LLM, OMOP CDM, FHIR |
+| 04 | [Homelessness Prevention Early Warning](frontier-platforms/homelessness-prevention-early-warning.md) | Social services | 4–5 mo | ML, court data |
+| 05 | [AMR Surveillance & Prescribing Support](frontier-platforms/amr-surveillance-prescribing-support.md) | Global health | 4–6 mo | WHO data, CLSI, FHIR |
+| 06 | [Dementia Caregiver Decision Support](frontier-platforms/dementia-caregiver-decision-support.md) | Aging | 3–4 mo | RAG, clinical guidelines |
+| 07 | [Food Waste Surplus Redistribution](frontier-platforms/food-waste-surplus-redistribution.md) | Climate | 3–4 mo | OR, supply-chain |
+| 08 | [Wildfire Risk & Community Preparedness](frontier-platforms/wildfire-risk-preparedness.md) | Climate | 3–5 mo | Geospatial ML, satellite |
+| 09 | [Perinatal Mental Health Platform](frontier-platforms/perinatal-mental-health-platform.md) | Maternal health | 2–3 mo | NLP, screening tools |
+| 10 | [SMB Cybersecurity Compliance](frontier-platforms/smb-cybersecurity-compliance.md) | Cybersecurity | 2–3 mo | NIST, CMMC, LLM |
+
+**🏁 Fastest build:** [Algorithmic Bias Auditing](frontier-platforms/algorithmic-bias-auditing-platform.md) or [Perinatal Mental Health](frontier-platforms/perinatal-mental-health-platform.md) (2–3 months with existing frameworks)
+
+---
+
 ### ⚡ [Rapid Prototypes](rapid-prototype/) — Build for Impact in a Weekend
 
 **11 non-AI ideas** scoped for solo developers and weekend hackathons. No AI, no computer vision — just solid engineering that changes lives. Pure CRUD, maps, WhatsApp bots, and data pipelines.
@@ -160,7 +233,7 @@ This is the largest curated collection of **real-world hackathon problem stateme
 
 ### 🏫 For Organizers & Educators
 
-Pick problems proportional to your event duration:
+Pick problems proportional to your event or semester duration:
 
 | Event Length | Recommended Track | Rationale |
 |-------------|------------------|-----------|
@@ -168,6 +241,27 @@ Pick problems proportional to your event duration:
 | 1 week | **US Civic Tech** (select 3–5) | LLM-powered, fast iteration |
 | 1–3 months | **Global South Impact** | Real ML, CV, or systems project |
 | Semester-long | **Any + mentorship** | Research-grade implementation |
+
+### 🎓 For College Students
+
+**Quick pick by your situation:**
+
+- **Minor project this semester** → [Rapid Prototypes](rapid-prototype/) — 2–6 week builds, no ML required, solo-scoped. Village Grain Bank or Medicine Stock Visibility are perfect starter projects.
+- **Major project (year-long)** → [US Civic Tech](us-civic-tech/) or [India Impact](india-impact/) — 8–16 week scope leaves room for literature review, implementation, and evaluation. Workers Compass or Vyavastha have startup-level depth.
+- **Capstone / thesis** → [Global South Impact](global-south-impact/) or [Frontier AI Platforms](frontier-platforms/) — 5–18 month scope, research-grounded, publishable results. Pick one with datasets you can access and papers you can cite.
+- **Portfolio piece to get hired** → Any track, but prioritize problems that let you show: architecture decisions, testing strategy, CI/CD, and a live or recorded demo.
+
+**Academic workflow:**
+
+```bash
+1. Browse by domain → INDEX.md lists all problems by domain, skill, and geography
+2. Read 3 problem statements → find one that excites you
+3. Check data availability → every problem links datasets upfront
+4. Draft a project proposal → the problem statement IS your proposal (problem, data, methods, success criteria)
+5. Build the MVP → success criteria tell you exactly what "done" looks like
+6. Write the report → problem statement gives you the introduction and related work
+7. Submit feedback → PR your experience to help the next student
+```
 
 ### 🤝 For Contributors
 
@@ -184,10 +278,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Three ways to contribute:
 | Feature | This Repo | Typical Hackathon Problems |
 |---------|-----------|---------------------------|
 | **Real data sources** | ✅ Every problem has linked datasets and API endpoints | ❌ Vague or absent |
-| **Academic grounding** | ✅ 150+ peer-reviewed papers cited across 26 problems | ❌ None |
+| **Academic grounding** | ✅ 200+ peer-reviewed papers cited across 46 problems | ❌ None |
 | **Stakeholder analysis** | ✅ Quantified: who's affected, at what scale, with sources | ❌ None |
 | **MVP scope** | ✅ Build time estimated in weeks or months per problem | ❌ "Build something cool" |
-| **Open-source adjacencies** | ✅ 50+ existing OSS projects mapped per track | ❌ No landscape awareness |
+| **Open-source adjacencies** | ✅ 80+ existing OSS projects mapped per track | ❌ No landscape awareness |
 | **AI vs non-AI labeled** | ✅ Clear labeling so teams pick by available skills | ❌ No guidance |
 | **Novelty scoring** | ✅ Every US Civic Tech problem scored 7–10/10 | ❌ None |
 | **Monetization paths** | ✅ B2G / B2B / open-core models for each prototype | ❌ None |
@@ -243,6 +337,8 @@ hackathon-problem-statements/
 ├── rapid-prototype/           # 11 engineering problems, 2–6 weeks each
 │   ├── README.md              # Track overview with week-by-week timelines
 │   └── 11 problem statements
+├── frontier-platforms/        # 10 AI-governance/health problems
+│   └── 10 problem statements  # Each: problem, regulatory framework, data
 ├── _PROBLEM_TEMPLATE.md       # Template for submitting new problems
 ├── INDEX.md                   # Master index — filterable by time, skill, domain
 ├── CONTRIBUTING.md            # How to contribute
@@ -256,14 +352,14 @@ hackathon-problem-statements/
 
 | Metric | Count |
 |--------|-------|
-| Total problem statements | **36** (and growing) |
-| Tracks | **4** (Global South AI, US Civic Tech, India Impact, Rapid Prototypes) |
-| AI/ML problems | **25** |
+| Total problem statements | **46** (and growing) |
+| Tracks | **5** (Global South AI, US Civic Tech, India Impact, Frontier AI Platforms, Rapid Prototypes) |
+| AI/ML problems | **35** |
 | Pure engineering problems | **11** |
-| Research papers cited | **150+** |
+| Research papers cited | **200+** |
 | Datasets and APIs linked | **100+** |
-| Open-source adjacencies mapped | **50+** |
-| Domains covered | **15** (health, agriculture, governance, education, water, housing, energy, labor, finance, science, legal, climate, transparency, infrastructure, environment) |
+| Open-source adjacencies mapped | **80+** |
+| Domains covered | **20+** (health, agriculture, governance, education, water, housing, energy, labor, finance, science, legal, climate, transparency, infrastructure, environment, cybersecurity, mental health, food security, AI governance, clinical research) |
 | Shortest build time | **2 weeks** |
 | Longest build time | **18 months** |
 
@@ -288,6 +384,12 @@ Yes — it's MIT licensed. Use it, remix it, customize it for your event. We'd a
 
 **Q: Has anyone built a solution for any of these?**  
 Not yet — that's the point. These are open problems waiting for a team to step up. If you build one, submit implementation notes via PR.
+
+**Q: I'm a college student — can I use this for my minor/major project?**  
+That's exactly what the [🎓 For College Students](#-for-college-students--portfolio-builders) section is for. Every problem has clear scope, success criteria, datasets, and research citations — so you can spend your time building, not defining. The problem statement doubles as your project proposal introduction and related work section.
+
+**Q: Will putting one of these in my portfolio help me get a job?**  
+A real-world project with actual data, a working demo, and documented architecture beats five tutorial clones every time. Recruiters notice when you can say "I built a tool that addresses an X-billion-dollar problem." The [Portfolio Strategy](#portfolio-strategy) section has specific recommendations.
 
 ---
 
