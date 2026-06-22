@@ -1,6 +1,6 @@
 # 🇮🇳 India Impact
 
-**5 AI projects** solving India's invisible infrastructure problems — where the DPI exists but the AI agent layer doesn't.
+**5 AI projects** solving India's invisible infrastructure problems — where the DPI exists but the intelligent application layer doesn't.
 
 ---
 

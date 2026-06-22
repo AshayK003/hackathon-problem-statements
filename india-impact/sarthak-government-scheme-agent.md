@@ -13,7 +13,7 @@ India's social welfare system is one of the largest in the world, with over 740 
 
 The fundamental problem is discovery. Studies of India's welfare ecosystem consistently show that the average household knows about only 2-3 schemes out of 20 or more they are eligible for. The information exists — on myScheme.gov.in, India.gov.in, and state portals — but it is fragmented, presented as exhaustive lists rather than personalised recommendations, available only in English or Hindi, and requires applicants to navigate separate application forms, separate verification processes, and separate renewal cycles for each scheme.
 
-The government's own myScheme.gov.in portal took a step in the right direction by creating a central directory with a filter-by-category interface. But it is a static catalogue, not an intelligent agent. It does not proactively tell a household that "Your family qualifies for 14 schemes worth ₹2.3L/year" — and crucially, it cannot detect life events (turning 60 means pension eligibility, having a girl child means Sukanya Samriddhi, losing a job triggers skill benefits). This is the perfect use case for an AI agent layer on top of India's existing DPI.
+The government's own myScheme.gov.in portal took a step in the right direction by creating a central directory with a filter-by-category interface. But it is a static catalogue, not a smart system. It does not proactively tell a household that "Your family qualifies for 14 schemes worth ₹2.3L/year" — and crucially, it cannot detect life events (turning 60 means pension eligibility, having a girl child means Sukanya Samriddhi, losing a job triggers skill benefits). This is the perfect use case for an intelligent layer on top of India's existing DPI.
 
 ## Why Existing Solutions Fail
 
