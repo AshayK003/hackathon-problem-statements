@@ -3,7 +3,7 @@ track: india-impact
 status: published
 ---
 
-# Sarthak — Government Scheme Discovery Agent
+# Sarthak — Government Scheme Discovery Agent.
 
 > "India has 740+ central schemes and thousands of state-level ones with a combined budget of ₹7.67 lakh crore. Most eligible citizens never apply. Studies show the average household is aware of only 2–3 schemes out of 20+ they qualify for."
 
