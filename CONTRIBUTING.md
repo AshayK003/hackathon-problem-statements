@@ -19,10 +19,24 @@ We welcome contributions that make this the best repository of real-world hackat
 
 ## PR Process
 
-1. Fork the repo
-2. Create a branch: `add/problem-name` or `fix/issue-description`
-3. Add/update files
-4. Submit a PR with a clear description of what you're adding and why
+## Contributors
+
+We appreciate every contribution to this repository.
+
+Once your pull request has been merged, you're welcome to add yourself to the `CONTRIBUTORS.md` file.
+
+Please include:
+
+- Your name
+- GitHub username
+- Your role
+- Contribution type(s) using the emoji legend
+
+Example:
+
+| Name | GitHub | Role | Contributions |
+|------|--------|------|---------------|
+| Jane Doe | @janedoe | Contributor | 💻 Code, 🐛 Bug Reports |
 
 ## Code of Conduct
 
