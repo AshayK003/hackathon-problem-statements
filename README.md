@@ -2,12 +2,12 @@
 
 ### Real-world problems for hackathons, college projects, and developer portfolios. Ready to build. Open for contributions.
 
-This is the largest curated collection of **real-world problem statements** (46 problems across 5 tracks) — built for hackathons, college major/minor projects, capstones, and developer portfolios. Every problem is grounded in actual data, peer-reviewed research, and serves real stakeholders — not hypotheticals.
+This is the largest curated collection of **real-world problem statements** (56 problems across 5 tracks) — built for hackathons, college major/minor projects, capstones, and developer portfolios. Every problem is grounded in actual data, peer-reviewed research, and serves real stakeholders — not hypotheticals.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub Repo Stars](https://img.shields.io/badge/github-stars-social?style=social&label=Star)](https://github.com/AshayK003/hackathon-problem-statements)
-[![Problems](https://img.shields.io/badge/problems-46-8A2BE2)](INDEX.md)
+[![Problems](https://img.shields.io/badge/problems-56-8A2BE2)](INDEX.md)
 [![Research Papers Cited](https://img.shields.io/badge/papers-200%2B-blue)](INDEX.md)
 [![Datasets Linked](https://img.shields.io/badge/datasets-100%2B-success)](INDEX.md)
 
@@ -19,11 +19,11 @@ This is the largest curated collection of **real-world problem statements** (46 
 
 | Track | Format | Build Time | Best For |
 |-------|--------|-----------|----------|
-| 🌍 [Global South Impact](global-south-impact/) | **10 AI/ML** problems | 5–18 months | Teams with ML + domain expertise |
-| 🇺🇸 [US Civic Tech](us-civic-tech/) | **10 LLM/data** problems | 6–16 weeks | Teams building for consumer impact |
-| 🇮🇳 [India Impact](india-impact/) | **5 AI/agent** problems | 8–16 weeks | Solo devs with DPI API experience |
-| 🧠 [Frontier AI Platforms](frontier-platforms/) | **10 AI-governance/health** problems | 2–6 months | Solo devs tackling systemic risks |
-| ⚡ [Rapid Prototypes](rapid-prototype/) | **11 engineering** problems | 2–6 weeks | Solo devs, weekend hackathons |
+| 🌍 [Global South Impact](global-south-impact/) | **12 problems** | 8 weeks–18 months | Teams with ML + domain expertise |
+| 🇺🇸 [US Civic Tech](us-civic-tech/) | **10 problems** | 6–16 weeks | Teams building for consumer impact |
+| 🇮🇳 [India Impact](india-impact/) | **8 problems** | 8–16 weeks | Solo devs with DPI API experience |
+| 🧠 [Frontier AI Platforms](frontier-platforms/) | **12 problems** | 2–6 months | Solo devs tackling systemic risks |
+| ⚡ [Rapid Prototypes](rapid-prototype/) | **14 problems** | 2–6 weeks | Solo devs, weekend hackathons |
 
 ---
 
@@ -116,7 +116,7 @@ A GitHub portfolio with one of these problems says more than five tutorial proje
 
 ### 🌍 [Global South Impact](global-south-impact/) — AI/ML for the Developing World
 
-**10 problems** that solve invisible infrastructure challenges in low-resource settings — where commercial SaaS doesn't compete because customers can't pay market rates.
+**12 problems** that solve invisible infrastructure challenges in low-resource settings — where commercial SaaS doesn't compete because customers can't pay market rates.
 
 | # | Problem | Impact | Build Time | Tags |
 |---|---------|--------|-----------|------|
@@ -130,6 +130,8 @@ A GitHub portfolio with one of these problems says more than five tutorial proje
 | 08 | [Groundwater Depletion Forecasting](global-south-impact/groundwater-depletion-forecasting.md) | 2B+ people | 12–18 mo | `water` `climate` `satellite` |
 | 09 | [School Resource Allocation Optimizer](global-south-impact/school-resource-allocation-optimizer.md) | 65M US students | 5–7 mo | `education` `optimization` |
 | 10 | [Climate-Resilient Housing Design](global-south-impact/climate-resilient-housing-design.md) | 1B+ in slums | 10–14 mo | `housing` `climate` `gen-AI` |
+| 11 | [Urban Heat Vulnerability Mapping](global-south-impact/urban-heat-vulnerability-mapping.md) | 3–6°C hotter cities | 10–14 wks | `climate` `urban` `geospatial` |
+| 12 | [Ocean Plastic River Watch](global-south-impact/ocean-plastic-river-watch.md) | 80% from 1,000 rivers | 8–10 wks | `environment` `satellite` `marine` |
 
 **🏁 Fastest MVP:** [Offline Crop Disease Diagnostics](global-south-impact/offline-crop-disease-diagnostics.md) (TFLite on-device, 5–7 months, solo-buildable)
 
@@ -158,7 +160,7 @@ A GitHub portfolio with one of these problems says more than five tutorial proje
 
 ### 🇮🇳 [India Impact](india-impact/) — AI on India's DPI Layer
 
-**5 AI problems** targeting India's Digital Public Infrastructure (DPI). Unlike US civic tech (fragmented) or generic Global South problems (pre-DPI), India's plumbing is built — APIs exist for land records, court cases, agricultural prices, and 740+ government schemes. But the **intelligent application layer** is missing.
+**8 problems** targeting India's Digital Public Infrastructure (DPI). Unlike US civic tech (fragmented) or generic Global South problems (pre-DPI), India's plumbing is built — APIs exist for land records, court cases, agricultural prices, and 740+ government schemes. But the **intelligent application layer** is missing.
 
 | # | Problem | Type | MVP | Startup Potential |
 |---|---------|------|-----|------------------|
@@ -166,7 +168,10 @@ A GitHub portfolio with one of these problems says more than five tutorial proje
 | 02 | [Vyavastha — MSME Compliance Copilot](india-impact/vyavastha-msme-compliance-copilot.md) | Regtech agent + API orchestration | **12–16 wks** | 6.45Cr customers |
 | 03 | [JalGuru — Water Quality Intelligence](india-impact/jalguru-water-quality-intelligence.md) | Geospatial ML + alerts | **8–10 wks** | Public health mission |
 | 04 | [Nyaya Sahayak — Court Case Navigator](india-impact/nyaya-sahayak-court-case-navigator.md) | eCourt API + LLM + WhatsApp | **8–12 wks** | 52M pending cases |
-| 05 | [Sarthak — Government Scheme Agent](india-impact/sarthak-government-scheme-agent.md) | Eligibility engine + DigiLocker | **8–10 wks** | ₹7.67L Cr in schemes |
+| 05 | [Sarthak — Government Scheme Agent](india-impact/sarthak-government-scheme-agent.md) | Eligibility engine + DigiLocker | **8–10 wks** | 7.67L Cr in schemes |
+| 06 | [Air Quality Intelligence & Early Warning](india-impact/air-quality-intelligence-early-warning.md) | Satellite AOD + CPCB monitors + ML | **10–14 wks** | 1.67M deaths/yr |
+| 07 | [Women Safety Route Intelligence](india-impact/women-safety-route-intelligence.md) | Safety-aware routing + OSM + crime data | **8–12 wks** | 50%+ women affected |
+| 08 | [Public Transit Optimisation](india-impact/public-transit-optimization.md) | GTFS-less route optimisation | **12–16 wks** | 70M daily bus riders |
 
 **🏁 Best startup bet:** [Vyavastha](india-impact/vyavastha-msme-compliance-copilot.md) (MSMEs pay ₹13–17L/yr for compliance — will pay for a cheaper alternative)
 
@@ -174,7 +179,7 @@ A GitHub portfolio with one of these problems says more than five tutorial proje
 
 ### 🧠 [Frontier AI Platforms](frontier-platforms/) — AI Governance, Health & Systemic Risk
 
-**10 problems** at the frontier of AI application — algorithmic auditing, antimicrobial resistance, clinical trial equity, dementia care, wildfire resilience, and more. These sit where AI capability meets systemic risk. Each problem has a clear regulatory or scientific framework behind it.
+**12 problems** at the frontier of AI application — algorithmic auditing, antimicrobial resistance, clinical trial equity, dementia care, wildfire resilience, and more. These sit where AI capability meets systemic risk. Each problem has a clear regulatory or scientific framework behind it.
 
 | # | Problem | Domain | Build Time | Stack |
 |---|---------|--------|-----------|-------|
@@ -188,6 +193,8 @@ A GitHub portfolio with one of these problems says more than five tutorial proje
 | 08 | [Wildfire Risk & Community Preparedness](frontier-platforms/wildfire-risk-preparedness.md) | Climate | 3–5 mo | Geospatial ML, satellite |
 | 09 | [Perinatal Mental Health Platform](frontier-platforms/perinatal-mental-health-platform.md) | Maternal health | 2–3 mo | NLP, screening tools |
 | 10 | [SMB Cybersecurity Compliance](frontier-platforms/smb-cybersecurity-compliance.md) | Cybersecurity | 2–3 mo | NIST, CMMC, LLM |
+| 11 | [Misinformation Resilience (Indian Languages)](frontier-platforms/misinformation-resilience-indian-languages.md) | Misinformation | 3–4 mo | NLP, multimodal, Indic |
+| 12 | [Personalized Learning Path Generator](frontier-platforms/personalized-learning-path-generator.md) | Education | 3–4 mo | LLM, offline, ASER |
 
 **🏁 Fastest build:** [Algorithmic Bias Auditing](frontier-platforms/algorithmic-bias-auditing-platform.md) or [Perinatal Mental Health](frontier-platforms/perinatal-mental-health-platform.md) (2–3 months with existing frameworks)
 
@@ -195,7 +202,7 @@ A GitHub portfolio with one of these problems says more than five tutorial proje
 
 ### ⚡ [Rapid Prototypes](rapid-prototype/) — Build for Impact in a Weekend
 
-**11 non-AI ideas** scoped for solo developers and weekend hackathons. No AI, no computer vision — just solid engineering that changes lives. Pure CRUD, maps, WhatsApp bots, and data pipelines.
+**14 non-AI ideas** scoped for solo developers and weekend hackathons. No AI, no computer vision — just solid engineering that changes lives. Pure CRUD, maps, WhatsApp bots, LoRa mesh networks, and SMS services.
 
 | # | Problem | Stack | Build Time | Learning Curve |
 |---|---------|-------|-----------|---------------|
@@ -210,6 +217,9 @@ A GitHub portfolio with one of these problems says more than five tutorial proje
 | **09** | [BhuLekh — Land Records App](rapid-prototype/bhulekh-land-records-app.md) | API Search + Maps | **3–4 wks** | ★★☆☆☆ |
 | **10** | [Setu — Government Form Assistant](rapid-prototype/setu-government-form-assistant.md) | Form Engine + DigiLocker | **3–4 wks** | ★★☆☆☆ |
 | **11** | [JalSathi — Water Testing Network](rapid-prototype/jalsathi-water-testing-network.md) | Maps + SMS + Crowdsource | **4–6 wks** | ★★★☆☆ |
+| **12** | [Emergency Alert Mesh Network](rapid-prototype/emergency-alert-mesh-network.md) | LoRa + ESP32 + Solar | **4–6 wks** | ★★★☆☆ |
+| **13** | [Blood Availability & Donor Network](rapid-prototype/blood-availability-donor-network.md) | WhatsApp + e-RaktKosh | **4–6 wks** | ★★★☆☆ |
+| **14** | [Farm-Gate Price Discovery Board](rapid-prototype/farm-gate-price-discovery-board.md) | SMS + Twilio + CRUD | **3–4 wks** | ★★☆☆☆ |
 
 **🏁 24-hour hackathon pick:** [Village Grain Bank Manager](rapid-prototype/village-grain-bank-manager.md) or [Medicine Stock Visibility](rapid-prototype/medicine-stock-visibility.md)
 
@@ -278,7 +288,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Three ways to contribute:
 | Feature | This Repo | Typical Hackathon Problems |
 |---------|-----------|---------------------------|
 | **Real data sources** | ✅ Every problem has linked datasets and API endpoints | ❌ Vague or absent |
-| **Academic grounding** | ✅ 200+ peer-reviewed papers cited across 46 problems | ❌ None |
+| **Academic grounding** | ✅ 200+ peer-reviewed papers cited across 56 problems | ❌ None |
 | **Stakeholder analysis** | ✅ Quantified: who's affected, at what scale, with sources | ❌ None |
 | **MVP scope** | ✅ Build time estimated in weeks or months per problem | ❌ "Build something cool" |
 | **Open-source adjacencies** | ✅ 80+ existing OSS projects mapped per track | ❌ No landscape awareness |
@@ -295,11 +305,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Three ways to contribute:
 | Build Time | What You Can Build |
 |-----------|-------------------|
 | **2–3 weeks** | Village Grain Bank, Medicine Stock Visibility |
-| **3–4 weeks** | Infrastructure Defect Reporter, Procurement Data Quality Monitor, BhuLekh, Setu |
-| **4–6 weeks** | Informal Worker Skills Passport, School Resource Transparency Map, Annapurna, RathLink, JalSathi |
+| **3–4 weeks** | Infrastructure Defect Reporter, Procurement Data Quality Monitor, BhuLekh, Setu, **Farm-Gate Price Discovery Board** |
+| **4–6 weeks** | Informal Worker Skills Passport, School Resource Transparency Map, Annapurna, RathLink, JalSathi, **Emergency Alert Mesh Network**, **Blood Availability & Donor Network** |
 | **6–8 weeks** | CivicFeed, FOIAbot, PredatoryGuard, UtilityCoach, InformedYou |
-| **8–12 weeks** | Workers Compass, DecodeMyBill, ProSe Navigator, HousingKey, Kisaan Marg, JalGuru, Nyaya Sahayak, Sarthak |
-| **12–16 weeks** | SchoolEquityWatch, Climate-Resilient Housing, Vyavastha |
+| **8–10 weeks** | JalGuru, Sarthak, **Ocean Plastic River Watch** |
+| **8–12 weeks** | Workers Compass, DecodeMyBill, ProSe Navigator, HousingKey, Kisaan Marg, Nyaya Sahayak, **Women Safety Route Intelligence** |
+| **10–14 weeks** | **Air Quality Intelligence**, **Urban Heat Vulnerability Mapping** |
+| **12–16 weeks** | SchoolEquityWatch, Vyavastha, **Public Transit Optimisation** |
+| **2–3 months** | Algorithmic Bias Auditing, Perinatal Mental Health, SMB Cybersecurity Compliance, Climate-Resilient Housing |
+| **3–4 months** | Youth Mental Health Triage, Clinical Trial Matching, Dementia Caregiver, Food Waste, **Misinformation Resilience**, **Personalized Learning Path Generator** |
+| **3–5 months** | Wildfire Risk & Preparedness |
+| **4–5 months** | Homelessness Prevention Early Warning |
+| **4–6 months** | AMR Surveillance & Prescribing Support |
 | **5–7 months** | Procurement Fraud, Offline Crop Disease, School Resource Optimizer |
 | **6–8 months** | Maternal Health, Informal Waste, Post-Harvest Loss |
 | **8–10 months** | Harmful Algal Bloom Early Warning |
@@ -325,41 +342,40 @@ Every problem in this repo had to pass **all** of these filters:
 
 ```
 hackathon-problem-statements/
-├── global-south-impact/       # 10 AI/ML problems for the developing world
+├── global-south-impact/       # 12 problems for the developing world
 │   ├── README.md              # Track overview with quick-start guides
-│   └── 10 problem statements  # Each: problem, data, papers, OSS, criteria
-├── india-impact/              # 5 AI problems on India's DPI layer
+│   └── 12 problem statements  # Each: problem, data, papers, OSS, criteria
+├── india-impact/              # 8 problems on India's DPI layer
 │   ├── README.md              # Track overview with quick-start guides
-│   └── 5 problem statements
+│   └── 8 problem statements
 ├── us-civic-tech/             # 10 consumer/civic problems for the US
 │   ├── README.md              # Track overview with novelty scores
 │   └── 10 problem statements
-├── rapid-prototype/           # 11 engineering problems, 2–6 weeks each
+├── rapid-prototype/           # 14 engineering problems, 2–6 weeks each
 │   ├── README.md              # Track overview with week-by-week timelines
-│   └── 11 problem statements
-├── frontier-platforms/        # 10 AI-governance/health problems
-│   └── 10 problem statements  # Each: problem, regulatory framework, data
+│   └── 14 problem statements
+├── frontier-platforms/        # 12 AI-governance/health problems
+│   └── 12 problem statements  # Each: problem, regulatory framework, data
 ├── _PROBLEM_TEMPLATE.md       # Template for submitting new problems
 ├── INDEX.md                   # Master index — filterable by time, skill, domain
 ├── CONTRIBUTING.md            # How to contribute
 ├── CODE_OF_CONDUCT.md         # Community standards
 └── LICENSE                    # MIT — free to use, fork, build
 ```
-
 ---
 
 ## Stats
 
 | Metric | Count |
 |--------|-------|
-| Total problem statements | **46** (and growing) |
-| Tracks | **5** (Global South AI, US Civic Tech, India Impact, Frontier AI Platforms, Rapid Prototypes) |
-| AI/ML problems | **35** |
-| Pure engineering problems | **11** |
+| Total problem statements | **56** (and growing) |
+| Tracks | **5** (Global South, US Civic Tech, India Impact, Frontier AI Platforms, Rapid Prototypes) |
+| AI/ML problems | **42** |
+| Pure engineering problems | **14** |
 | Research papers cited | **200+** |
 | Datasets and APIs linked | **100+** |
 | Open-source adjacencies mapped | **80+** |
-| Domains covered | **20+** (health, agriculture, governance, education, water, housing, energy, labor, finance, science, legal, climate, transparency, infrastructure, environment, cybersecurity, mental health, food security, AI governance, clinical research) |
+| Domains covered | **22+** (health, agriculture, governance, education, water, housing, energy, labor, finance, science, legal, climate, transparency, infrastructure, environment, cybersecurity, mental health, food security, AI governance, clinical research, transportation, public safety, misinformation) |
 | Shortest build time | **2 weeks** |
 | Longest build time | **18 months** |
 
@@ -385,7 +401,7 @@ Yes — it's MIT licensed. Use it, remix it, customize it for your event. We'd a
 **Q: Has anyone built a solution for any of these?**  
 Not yet — that's the point. These are open problems waiting for a team to step up. If you build one, submit implementation notes via PR.
 
-**Q: I'm a college student — can I use this for my minor/major project?**  
+**Q: I'm a college student — can I use this for my minor/major project?**   
 That's exactly what the [🎓 For College Students](#-for-college-students--portfolio-builders) section is for. Every problem has clear scope, success criteria, datasets, and research citations — so you can spend your time building, not defining. The problem statement doubles as your project proposal introduction and related work section.
 
 **Q: Will putting one of these in my portfolio help me get a job?**  
