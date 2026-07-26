@@ -6,7 +6,7 @@ A searchable index of all problem statements in this repository.
 
 ## By Track
 
-### 🌍 Global South Impact (10 problems)
+### 🌍 Global South Impact (12 problems)
 
 | # | Problem | File | Build Time | Tags |
 |---|---------|------|-----------|------|
@@ -20,6 +20,8 @@ A searchable index of all problem statements in this repository.
 | 08 | Groundwater Depletion Forecasting | [global-south-impact/groundwater-depletion-forecasting.md](global-south-impact/groundwater-depletion-forecasting.md) | 12-18mo | water, climate, ML, satellite |
 | 09 | School Resource Allocation Optimizer | [global-south-impact/school-resource-allocation-optimizer.md](global-south-impact/school-resource-allocation-optimizer.md) | 5-7mo | education, optimization, ML |
 | 10 | Climate-Resilient Housing Design | [global-south-impact/climate-resilient-housing-design.md](global-south-impact/climate-resilient-housing-design.md) | 10-14mo | housing, climate, generative |
+| 11 | Urban Heat Vulnerability Mapping | [global-south-impact/urban-heat-vulnerability-mapping.md](global-south-impact/urban-heat-vulnerability-mapping.md) | 10-14w | climate, urban, geospatial, heat |
+| 12 | Ocean Plastic River Watch | [global-south-impact/ocean-plastic-river-watch.md](global-south-impact/ocean-plastic-river-watch.md) | 8-10w | environment, marine, satellite, plastic |
 
 ### 🇺🇸 US Civic Tech (10 problems)
 
@@ -36,7 +38,7 @@ A searchable index of all problem statements in this repository.
 | 09 | InformedYou — Consent Simplifier | [us-civic-tech/informedyou-consent-simplifier.md](us-civic-tech/informedyou-consent-simplifier.md) | 6w | health, clinical-trials, LLM |
 | 10 | SchoolEquityWatch — Funding Transparency | [us-civic-tech/school-funding-transparency-analyzer.md](us-civic-tech/school-funding-transparency-analyzer.md) | 12-16w | education, equity, data |
 
-### 🇮🇳 India Impact (5 problems)
+### 🇮🇳 India Impact (8 problems)
 
 | # | Problem | File | Build Time | Tags |
 |---|---------|------|-----------|------|
@@ -45,8 +47,11 @@ A searchable index of all problem statements in this repository.
 | 03 | JalGuru — Water Quality Intelligence | [india-impact/jalguru-water-quality-intelligence.md](india-impact/jalguru-water-quality-intelligence.md) | 8-10w | water, health, geospatial, ML |
 | 04 | Nyaya Sahayak — Court Case Navigator | [india-impact/nyaya-sahayak-court-case-navigator.md](india-impact/nyaya-sahayak-court-case-navigator.md) | 8-12w | legal, courts, LLM, WhatsApp |
 | 05 | Sarthak — Government Scheme Agent | [india-impact/sarthak-government-scheme-agent.md](india-impact/sarthak-government-scheme-agent.md) | 8-10w | governance, welfare, LLM, DigiLocker |
+| 06 | Air Quality Intelligence & Early Warning | [india-impact/air-quality-intelligence-early-warning.md](india-impact/air-quality-intelligence-early-warning.md) | 10-14w | environment, health, satellite, ML |
+| 07 | Women Safety Route Intelligence | [india-impact/women-safety-route-intelligence.md](india-impact/women-safety-route-intelligence.md) | 8-12w | public-safety, urban, routing, India |
+| 08 | Public Transit Optimisation for Indian Cities | [india-impact/public-transit-optimization.md](india-impact/public-transit-optimization.md) | 12-16w | transportation, urban, transit, India |
 
-### ⚡ Rapid Prototypes (11 problems)
+### ⚡ Rapid Prototypes (14 problems)
 
 | # | Problem | File | Build Time | Tags |
 |---|---------|------|-----------|------|
@@ -61,8 +66,11 @@ A searchable index of all problem statements in this repository.
 | 09 | BhuLekh — Land Records App | [rapid-prototype/bhulekh-land-records-app.md](rapid-prototype/bhulekh-land-records-app.md) | 3-4w | land, governance, APIs, India |
 | 10 | Setu — Government Form Assistant | [rapid-prototype/setu-government-form-assistant.md](rapid-prototype/setu-government-form-assistant.md) | 3-4w | governance, forms, DigiLocker, India |
 | 11 | JalSathi — Water Testing Network | [rapid-prototype/jalsathi-water-testing-network.md](rapid-prototype/jalsathi-water-testing-network.md) | 4-6w | water, health, SMS, India |
+| 12 | Emergency Alert Mesh Network | [rapid-prototype/emergency-alert-mesh-network.md](rapid-prototype/emergency-alert-mesh-network.md) | 4-6w | disaster, IoT, hardware, India |
+| 13 | Blood Availability & Donor Network | [rapid-prototype/blood-availability-donor-network.md](rapid-prototype/blood-availability-donor-network.md) | 4-6w | health, blood, WhatsApp, India |
+| 14 | Farm-Gate Price Discovery Board | [rapid-prototype/farm-gate-price-discovery-board.md](rapid-prototype/farm-gate-price-discovery-board.md) | 3-4w | agriculture, SMS, India |
 
-### 🧠 Frontier AI Platforms (10 problems)
+### 🧠 Frontier AI Platforms (12 problems)
 
 | # | Problem | File | Build Time | Tags |
 |---|---------|------|-----------|------|
@@ -76,6 +84,8 @@ A searchable index of all problem statements in this repository.
 | 08 | Wildfire Risk & Community Preparedness | [frontier-platforms/wildfire-risk-preparedness.md](frontier-platforms/wildfire-risk-preparedness.md) | 3-5mo | wildfire, climate, geospatial, ML |
 | 09 | Perinatal Mental Health Platform | [frontier-platforms/perinatal-mental-health-platform.md](frontier-platforms/perinatal-mental-health-platform.md) | 2-3mo | maternal-health, mental-health, womens-health |
 | 10 | SMB Cybersecurity Compliance | [frontier-platforms/smb-cybersecurity-compliance.md](frontier-platforms/smb-cybersecurity-compliance.md) | 2-3mo | cybersecurity, compliance, SMB, GRC |
+| 11 | Misinformation Resilience (Indian Languages) | [frontier-platforms/misinformation-resilience-indian-languages.md](frontier-platforms/misinformation-resilience-indian-languages.md) | 3-4mo | misinformation, NLP, Indian-languages, multimodal |
+| 12 | Personalized Learning Path Generator | [frontier-platforms/personalized-learning-path-generator.md](frontier-platforms/personalized-learning-path-generator.md) | 3-4mo | education, LLM, offline, India |
 
 ---
 
@@ -84,19 +94,20 @@ A searchable index of all problem statements in this repository.
 | Build Time | Problem Set |
 |-----------|------------|
 | **2-3 weeks** | Village Grain Bank, Medicine Stock Visibility |
-| **3-4 weeks** | Infrastructure Defect Reporter, Procurement Data Quality Monitor, BhuLekh, Setu |
-| **4-6 weeks** | Informal Worker Skills Passport, School Resource Transparency Map, Annapurna, RathLink, JalSathi |
+| **3-4 weeks** | Infrastructure Defect Reporter, Procurement Data Quality Monitor, BhuLekh, Setu, **Farm-Gate Price Discovery Board** |
+| **4-6 weeks** | Informal Worker Skills Passport, School Resource Transparency Map, Annapurna, RathLink, JalSathi, **Emergency Alert Mesh Network**, **Blood Availability & Donor Network** |
 | **6-8 weeks** | CivicFeed, FOIAbot, PredatoryGuard, UtilityCoach, InformedYou |
-| **8-10 weeks** | JalGuru, Sarthak |
-| **8-12 weeks** | Workers Compass, DecodeMyBill, ProSe Navigator, HousingKey, Kisaan Marg, Nyaya Sahayak |
-|| **10-12 weeks** | Kisaan Marg |
-|| **12-16 weeks** | SchoolEquityWatch, Climate-Resilient Housing, Vyavastha |
-|| **2-3 months** | Algorithmic Bias Auditing, Perinatal Mental Health, SMB Cybersecurity Compliance |
-|| **3-4 months** | Youth Mental Health Triage, Clinical Trial Matching, Dementia Caregiver, Food Waste |
-|| **3-5 months** | Wildfire Risk & Preparedness |
-|| **4-5 months** | Homelessness Prevention Early Warning |
-|| **4-6 months** | AMR Surveillance & Prescribing Support |
-|| **5-7 months** | Procurement Fraud, Offline Crop Disease, School Resource Optimizer |
+| **8-10 weeks** | JalGuru, Sarthak, **Ocean Plastic River Watch** |
+| **8-12 weeks** | Workers Compass, DecodeMyBill, ProSe Navigator, HousingKey, Kisaan Marg, Nyaya Sahayak, **Women Safety Route Intelligence** |
+| **10-12 weeks** | Kisaan Marg |
+| **10-14 weeks** | **Air Quality Intelligence & Early Warning**, **Urban Heat Vulnerability Mapping** |
+| **12-16 weeks** | SchoolEquityWatch, Climate-Resilient Housing, Vyavastha, **Public Transit Optimisation** |
+| **2-3 months** | Algorithmic Bias Auditing, Perinatal Mental Health, SMB Cybersecurity Compliance |
+| **3-4 months** | Youth Mental Health Triage, Clinical Trial Matching, Dementia Caregiver, Food Waste, **Misinformation Resilience**, **Personalized Learning Path Generator** |
+| **3-5 months** | Wildfire Risk & Preparedness |
+| **4-5 months** | Homelessness Prevention Early Warning |
+| **4-6 months** | AMR Surveillance & Prescribing Support |
+| **5-7 months** | Procurement Fraud, Offline Crop Disease, School Resource Optimizer |
 | **6-8 months** | Maternal Health, Informal Waste, Post-Harvest Loss |
 | **8-10 months** | Harmful Algal Bloom |
 | **8-12 months** | Scientific Reproducibility Engine |
@@ -109,21 +120,23 @@ A searchable index of all problem statements in this repository.
 | Skill | Problems |
 |-------|----------|
 | **Computer Vision** | Informal Waste (#03), Crop Disease (#07), Reproducibility (#06 - figures) |
-|| **NLP / LLMs** | CivicFeed, FOIAbot, InformedYou, Kisaan Marg, Vyavastha, Nyaya Sahayak, Sarthak, Reproducibility Engine, DecodeMyBill, Youth MH Triage (NLP), Clinical Trial Matching (LLM), Dementia Caregiver (RAG), SMB Compliance (LLM policy writer) |
-|| **Graph ML** | Procurement Fraud Detection |
-|| **Geospatial / Remote Sensing** | Algal Bloom, Groundwater, Climate Housing, JalGuru, Wildfire Risk (satellite + fuels) |
-|| **Mobile Development** | Maternal Health, Crop Disease, Informal Worker Passport, Housing Design, RathLink |
-|| **IoT / Hardware** | Post-Harvest Loss, Maternal Health |
-|| **Data Engineering** | Procurement Data Quality, School Resource Map, SchoolEquityWatch, Homelessness Prevention (court + benefits data), AMR Surveillance (lab data) |
-|| **WhatsApp/Twilio** | Village Grain Bank, Medicine Stock, Infrastructure Defect, Kisaan Marg, Nyaya Sahayak, Sarthak, Annapurna, JalSathi |
-|| **React Native / Offline** | Informal Worker Passport, School Resource Map, RathLink |
-|| **API Integration** | BhuLekh, Setu, Annapurna, Vyavastha |
-|| **Government DPI APIs** | Vyavastha, Nyaya Sahayak, Sarthak, BhuLekh, Setu, Annapurna |
-|| **Operations Research / VRP** | Food Waste Redistribution |
-|| **Clinical / Health Standards** | AMR Surveillance (CLSI, FHIR), Clinical Trial Matching (OMOP CDM)
-|| **Cybersecurity / GRC** | SMB Cybersecurity Compliance (NIST, CMMC, HIPAA mapping)
-|| **ML (Fairness / Audit)** | Algorithmic Bias Auditing (AIF360, FairLearn, SHAP)
-|| **Time Series / Risk Prediction** | Wildfire Risk (XGBoost), Homelessness Prevention, Youth MH Triage, Perinatal MH, AMR Resistance Prediction, Dementia Behavior |
+| | **NLP / LLMs** | CivicFeed, FOIAbot, InformedYou, Kisaan Marg, Vyavastha, Nyaya Sahayak, Sarthak, Reproducibility Engine, DecodeMyBill, Youth MH Triage (NLP), Clinical Trial Matching (LLM), Dementia Caregiver (RAG), SMB Compliance (LLM policy writer), **Misinformation Resilience**, **Personalized Learning Path Generator** |
+| | **Graph ML** | Procurement Fraud Detection |
+| | **Geospatial / Remote Sensing** | Algal Bloom, Groundwater, Climate Housing, JalGuru, Wildfire Risk (satellite + fuels), **Air Quality Intelligence** (satellite AOD + LST), **Urban Heat Mapping** (Landsat LST), **Ocean Plastic River Watch** (Sentinel-2) |
+| | **Mobile Development** | Maternal Health, Crop Disease, Informal Worker Passport, Housing Design, RathLink |
+| | **IoT / Hardware** | Post-Harvest Loss, Maternal Health, **Emergency Alert Mesh Network** (LoRa, ESP32) |
+| | **Data Engineering** | Procurement Data Quality, School Resource Map, SchoolEquityWatch, Homelessness Prevention (court + benefits data), AMR Surveillance (lab data) |
+| | **WhatsApp/Twilio** | Village Grain Bank, Medicine Stock, Infrastructure Defect, Kisaan Marg, Nyaya Sahayak, Sarthak, Annapurna, JalSathi, **Blood Availability & Donor Network**, **Farm-Gate Price Discovery Board** |
+| | **React Native / Offline** | Informal Worker Passport, School Resource Map, RathLink |
+| | **API Integration** | BhuLekh, Setu, Annapurna, Vyavastha |
+| | **Government DPI APIs** | Vyavastha, Nyaya Sahayak, Sarthak, BhuLekh, Setu, Annapurna |
+| | **Operations Research / VRP** | Food Waste Redistribution |
+| | **Clinical / Health Standards** | AMR Surveillance (CLSI, FHIR), Clinical Trial Matching (OMOP CDM) |
+| | **Cybersecurity / GRC** | SMB Cybersecurity Compliance (NIST, CMMC, HIPAA mapping) |
+| | **ML (Fairness / Audit)** | Algorithmic Bias Auditing (AIF360, FairLearn, SHAP) |
+| | **Time Series / Risk Prediction** | Wildfire Risk (XGBoost), Homelessness Prevention, Youth MH Triage, Perinatal MH, AMR Resistance Prediction, Dementia Behavior |
+| | **Routing / Spatial Optimization** | **Women Safety Route Intelligence**, **Public Transit Optimisation** |
+| | **Indian Language NLP** | **Misinformation Resilience**, **Personalized Learning Path Generator** |
 
 ---
 
@@ -131,12 +144,12 @@ A searchable index of all problem statements in this repository.
 
 | Domain | Problems |
 |--------|----------|
-| **Public Health** | Maternal Health, Medicine Stock, InformedYou, DecodeMyBill, JalGuru, AMR Surveillance & Prescribing, Youth MH Crisis Triage, Perinatal Mental Health |
-| **Agriculture** | Post-Harvest Loss, Crop Disease, Village Grain Bank, Kisaan Marg |
+| **Public Health** | Maternal Health, Medicine Stock, InformedYou, DecodeMyBill, JalGuru, AMR Surveillance & Prescribing, Youth MH Crisis Triage, Perinatal Mental Health, **Blood Availability & Donor Network** |
+| **Agriculture** | Post-Harvest Loss, Crop Disease, Village Grain Bank, Kisaan Marg, **Farm-Gate Price Discovery Board** |
 | **Governance & Welfare** | Procurement Fraud, CivicFeed, FOIAbot, Procurement Data Quality, Sarthak, Annapurna, Setu, BhuLekh |
-| **Housing & Urban** | Climate Housing, HousingKey, Infrastructure Defect, Homelessness Prevention Early Warning |
-| **Environment & Water** | Informal Waste, Algal Bloom, Groundwater, JalGuru, JalSathi, RathLink |
-| **Education** | School Resource Optimizer, SchoolEquityWatch, School Resource Map, Youth MH Triage |
+| **Housing & Urban** | Climate Housing, HousingKey, Infrastructure Defect, Homelessness Prevention Early Warning, **Urban Heat Vulnerability Mapping** |
+| **Environment & Water** | Informal Waste, Algal Bloom, Groundwater, JalGuru, JalSathi, RathLink, **Ocean Plastic River Watch** |
+| **Education** | School Resource Optimizer, SchoolEquityWatch, School Resource Map, Youth MH Triage, **Personalized Learning Path Generator** |
 | **Legal & Justice** | Workers Compass, ProSe Navigator, Nyaya Sahayak |
 | **Science** | Scientific Reproducibility Engine |
 | **Labor** | Informal Worker Passport |
@@ -148,9 +161,13 @@ A searchable index of all problem statements in this repository.
 | **Mental Health** | Youth MH Crisis Triage, Perinatal Mental Health, Dementia Caregiver Support |
 | **Clinical Research** | Clinical Trial Matching & Patient Equity |
 | **Aging & Dementia** | Dementia Caregiver Decision Support |
-| **Climate & Disaster** | Wildfire Risk & Community Preparedness |
+| **Climate & Disaster** | Wildfire Risk & Community Preparedness, **Emergency Alert Mesh Network**, **Urban Heat Vulnerability Mapping** |
 | **Food Security** | Food Waste Surplus Redistribution |
 | **Cybersecurity** | SMB Cybersecurity Compliance |
+| **Environment & Air** | **Air Quality Intelligence & Early Warning** |
+| **Public Safety** | **Women Safety Route Intelligence** |
+| **Transportation** | **Public Transit Optimisation** |
+| **Misinformation** | **Misinformation Resilience (Indian Languages)** |
 
 ---
 
@@ -158,7 +175,7 @@ A searchable index of all problem statements in this repository.
 
 | Region | Problems |
 |--------|----------|
-| **Global South / General** | Maternal Health, Procurement Fraud, Informal Waste, Post-Harvest Loss, Harmful Algal Bloom, Scientific Reproducibility, Crop Disease, Groundwater, School Optimizer, Climate Housing, Village Grain Bank, Medicine Stock, Infrastructure Defect, Procurement Data Quality, Worker Passport, School Resource Map, AMR Surveillance, Food Waste Redistribution |
+| **Global South / General** | Maternal Health, Procurement Fraud, Informal Waste, Post-Harvest Loss, Harmful Algal Bloom, Scientific Reproducibility, Crop Disease, Groundwater, School Optimizer, Climate Housing, Village Grain Bank, Medicine Stock, Infrastructure Defect, Procurement Data Quality, Worker Passport, School Resource Map, AMR Surveillance, Food Waste Redistribution, **Urban Heat Vulnerability Mapping**, **Ocean Plastic River Watch** |
 | **United States** | CivicFeed, Workers Compass, FOIAbot, DecodeMyBill, ProSe Navigator, PredatoryGuard, UtilityCoach, HousingKey, InformedYou, SchoolEquityWatch, Youth MH Crisis Triage, Clinical Trial Matching, Homelessness Prevention, Dementia Caregiver, Wildfire Risk, Perinatal Mental Health, SMB Cybersecurity Compliance |
-| **India** | Kisaan Marg, Vyavastha, JalGuru, Nyaya Sahayak, Sarthak, Annapurna, RathLink, BhuLekh, Setu, JalSathi |
+| **India** | Kisaan Marg, Vyavastha, JalGuru, Nyaya Sahayak, Sarthak, Annapurna, RathLink, BhuLekh, Setu, JalSathi, **Air Quality Intelligence**, **Women Safety Route Intelligence**, **Public Transit Optimisation**, **Emergency Alert Mesh Network**, **Blood Availability & Donor Network**, **Farm-Gate Price Discovery Board**, **Misinformation Resilience**, **Personalized Learning Path Generator** |
 | **Global Policy / Tech Governance** | Algorithmic Bias Auditing |
