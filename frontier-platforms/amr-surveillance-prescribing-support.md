@@ -61,7 +61,7 @@ status: published
 
 - [WHONET](https://whonet.org/) — Windows desktop AMR database
 - [CARD](https://github.com/arpcard) — AMR gene detection (McMaster)
-- [AMR++](https://github.com/AMRPlusplus) — Bioinformatics AMR pipeline
+- [AMR++](https://github.com/Microbial-Ecology-Group/AMRplusplus) — Bioinformatics AMR pipeline
 - **No open-source web-based surveillance + CDS platform exists**
 
 ## Skills Needed

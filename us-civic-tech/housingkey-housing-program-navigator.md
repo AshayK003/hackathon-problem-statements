@@ -70,10 +70,10 @@ A housing assistance navigator that:
 ## Open Source Adjacencies
 
 - [Housing Insights](https://github.com/codefordc/housing-insights) — DC-area housing data explorer
-- [National Housing Preservation Database](https://github.com/preservationdatabase/nhpd-api) — Preservation database API
+- [National Housing Preservation Database](https://preservationdatabase.org/) — Preservation database API
 - [HUD Data API](https://www.huduser.gov/portal/dataset/hud-data-api.html) — Multiple HUD datasets via API
 - [PolicyMap](https://www.policymap.com/) — Commercial; open-data patterns to follow
-- [District Dirty Data](https://github.com/codefordc/dirty-data) — Housing data cleaning tools
+- District Dirty Data — Housing data cleaning tools
 
 ## Success Criteria
 

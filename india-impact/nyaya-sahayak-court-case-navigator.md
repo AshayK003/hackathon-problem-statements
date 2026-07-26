@@ -70,8 +70,8 @@ There is no consumer-facing legal tool that helps a litigant understand their ca
 ## Open Source Adjacencies
 
 - [Indian Kanoon](https://indiankanoon.org/) — Open legal data (case law, statutes, judgments)
-- [JustiFlow (GitHub)](https://github.com/justiflow/) — Academic open-source legal workflow prototype
-- [Indian LegalGPT](https://github.com/IndianLegalGPT/) — Fine-tuned LLM for Indian legal text
+- JustiFlow — Academic open-source legal workflow prototype
+- Indian LegalGPT — Fine-tuned LLM for Indian legal text
 - [CourtListener](https://www.courtlistener.com/) — US reference for open-source court data platform
 
 ## Success Criteria

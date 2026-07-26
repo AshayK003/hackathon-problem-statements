@@ -75,7 +75,7 @@ An LLM-powered system can bridge this gap: assess the student's actual competenc
 - [Kolibri](https://learningequality.org/kolibri/) — Offline learning platform deployed in 200+ countries
 - [NCERT e-textbooks](https://ncert.nic.in/textbook.php) — EPUB and PDF formats, open license
 - [Open Assistant / LLM fine-tuning](https://open-assistant.io/) — Open-source instruction-tuned models for education
-- [Pensieve (Memrise)](https://github.com/htkseason/pensieve) — Spaced repetition algorithm reference implementation
+- Pensieve (Memrise) — Spaced repetition algorithm reference implementation
 - [Riiid AIEd Challenge](https://www.kaggle.com/c/riiid-test-answer-prediction) — Knowledge tracing open dataset
 
 ## Skills Needed

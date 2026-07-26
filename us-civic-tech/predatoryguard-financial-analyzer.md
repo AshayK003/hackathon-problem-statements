@@ -72,8 +72,8 @@ A consumer-facing financial product analyzer that:
 
 - [CFPB Open Source Tools](https://github.com/cfpb) — Multiple consumer protection tools
 - [HMDA Explorer](https://ffiec.cfpb.gov/data-browser/) — Mortgage lending data browser
-- [complaint-database-client](https://github.com/cfpb/complaint-database) — CFPB complaint DB API client
-- [regtech-api](https://github.com/cfpb/regtech-api) — Regulatory tech APIs
+- [complaint-database-client](https://cfpb.github.io/api/ccdb/) — CFPB complaint DB API client
+- regtech-api — Regulatory tech APIs
 
 ## Success Criteria
 

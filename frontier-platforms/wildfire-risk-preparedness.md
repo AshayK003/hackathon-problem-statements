@@ -64,7 +64,7 @@ Wildfires are worsening (climate change: 2-5x more acres than 50 years ago). FAI
 - [Planscape](https://github.com/OurPlanscape/Planscape) — Apache 2.0, landscape resilience planning
 - [ForeFire](https://github.com/forefireAPI/forefire) — GPLv3, wildfire simulation engine
 - [BC WPS](https://github.com/bcgov/wps) — Apache 2.0, full predictive services platform
-- [PyreCast](https://github.com/OpenFire/pyrecast) — Real-time fire spread forecast
+- PyreCast — Real-time fire spread forecast
 
 ## Skills Needed
 

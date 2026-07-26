@@ -68,9 +68,9 @@ Existing solutions serve either large enterprises (who can afford ₹50L+/year c
 
 ## Open Source Adjacencies
 
-- [India Compliance API Wrappers](https://github.com/indiacompliance/) — Community wrappers for GST, EPFO, ESIC APIs
-- [GST Sahay](https://github.com/gstsahay/) — Open-source GST filing assistant
-- [NSWS Integration SDKs](https://www.nsws.gov.in/docs/) — Government-provided API SDKs for single-window clearance
+- India Compliance API Wrappers — Community wrappers for GST, EPFO, ESIC APIs
+- GST Sahay — Open-source GST filing assistant
+- [NSWS Integration SDKs](https://www.nsws.gov.in/) — Government-provided API SDKs for single-window clearance
 
 ## Success Criteria
 

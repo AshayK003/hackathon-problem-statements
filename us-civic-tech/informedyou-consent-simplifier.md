@@ -75,7 +75,7 @@ An AI-powered consent form simplifier that:
 
 - [OpenTrials](https://github.com/opentrials/opentrials) — Open clinical trial data
 - [readability-nlp](https://github.com/cdimascio/py-readability-metrics) — Readability scoring libraries
-- [EasyDNN](https://github.com/nickmvincent/easydnn) — Text simplification research
+- EasyDNN — Text simplification research
 - [ClinGen](https://clinicalgenome.org/) — Clinical genomics consent resources
 
 ## Success Criteria

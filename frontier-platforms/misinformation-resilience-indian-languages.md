@@ -69,7 +69,7 @@ Existing fact-checking organisations (BOOM, Alt News, SM Hoax Slayer, Vishvas Ne
 ## Open Source Adjacencies
 
 - [AI4Bharat IndicNLP](https://github.com/AI4Bharat/indicnlp_catalog) — Models and datasets for 10+ Indian languages
-- [Deepware Scanner](https://github.com/Deepware-AI/deepware-scanner) — Open-source deepfake detection
+- [Deepware Scanner](https://scanner.deepware.ai/) — Open-source deepfake detection
 - [Google Fact Check Tools API](https://developers.google.com/fact-check/tools/api) — API for previously fact-checked claims
 - [YouTube Data API](https://developers.google.com/youtube/v3) — Comment and video metadata access
 - [SpeechBrain / RawNet2](https://github.com/speechbrain/speechbrain) — Audio deepfake detection models

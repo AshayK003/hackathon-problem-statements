@@ -53,7 +53,7 @@ An AI-powered medical bill intelligence platform that:
 | Source | Description |
 |---|---|
 | [CMS Hospital Price Transparency](https://www.cms.gov/hospital-price-transparency) | Hospital chargemasters and negotiated rates |
-| [CMS Physician Fee Schedule](https://www.cms.gov/medicare/physician-fee-schedule) | Medicare reimbursement rates for procedures |
+| [CMS Physician Fee Schedule](https://www.cms.gov/medicare/payment/fee-schedules/physician) | Medicare reimbursement rates for procedures |
 | [FAIR Health](https://www.fairhealth.org/) | Private insurer reimbursement benchmarks |
 | [HealthCare Bluebook](https://www.healthcarebluebook.com/) | Fair price estimates for medical services |
 | [No Surprises Act resources](https://www.cms.gov/nosurprises) | Federal surprise billing protections |
@@ -67,9 +67,9 @@ An AI-powered medical bill intelligence platform that:
 
 ## Open Source Adjacencies
 
-- [hospital-price-transparency](https://github.com/ropensci/hospitalprice) — R package for hospital pricing
-- [Py-Medical-Code](https://github.com/smwaaver/py-medical-code) — CPT/HCPCS code processing
-- [healthcareai-py](https://github.com/HealthcareAI/healthcareai-py) — ML for healthcare
+- [hospital-price-transparency](https://github.com/CMSgov/hospital-price-transparency) — R package for hospital pricing
+- Py-Medical-Code — CPT/HCPCS code processing
+- [healthcareai-py](https://github.com/HealthCatalyst/healthcareai-py) — ML for healthcare
 
 ## Success Criteria
 

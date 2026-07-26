@@ -54,7 +54,7 @@ What is missing is a predictive intelligence layer that uses existing data — g
 | [CGWB Annual Groundwater Quality Report](https://cgwb.gov.in/) | National groundwater quality data (annual, district-level) |
 | [JJM Dashboard](https://ejalshakti.gov.in/jjmreport/) | Jal Jeevan Mission habitation-level water quality coverage |
 | [BIS Drinking Water Standards](https://www.bis.gov.in/) | IS 10500:2012 drinking water quality standards |
-| [CGWB Aquifer Maps](https://cgwb.gov.in/aquifer-maps.html) | Hydrogeological aquifer maps and groundwater resources |
+| [CGWB Aquifer Maps](https://cgwb.gov.in/) | Hydrogeological aquifer maps and groundwater resources |
 | [IMD Rainfall Data](https://mausam.imd.gov.in/) | District and sub-district rainfall for recharge estimation |
 | [NASA GRACE Satellite](https://grace.jpl.nasa.gov/) | Satellite-based groundwater storage change measurements |
 | [USGS Groundwater Watch](https://groundwaterwatch.usgs.gov/) | US contamination monitoring methodology (reference) |

@@ -54,8 +54,8 @@ Each of these data sources exists in isolation. CPCB publishes raw hourly AQI nu
 | [CPCB CAAQMS](https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing) | 300+ real-time air quality monitoring stations (hourly PM2.5, PM10, NOx, SO2, O3, CO) |
 | [SAFAR](https://safar.tropmet.res.in/) | Air quality forecasts for 10 Indian cities (seasonal) |
 | [MODIS MAIAC](https://lpdaac.usgs.gov/products/mcd19a2v061/) | Aerosol Optical Depth at 1km resolution (daily) |
-| [Sentinel-5P](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-5p) | NO2, SO2, CO, HCHO column concentrations (urban scale) |
-| [ERA5](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels) | Hourly meteorological fields (wind, temperature, PBL height, humidity) |
+| [Sentinel-5P](https://sentinels.copernicus.eu/copernicus/sentinel-5p) | NO2, SO2, CO, HCHO column concentrations (urban scale) |
+| [ERA5](https://cds.climate.copernicus.eu/) | Hourly meteorological fields (wind, temperature, PBL height, humidity) |
 | [IMD Gridded Data](https://mausam.imd.gov.in/) | District-level weather forecasts and rainfall |
 | [OpenAQ](https://openaq.org/) | Global aggregator of air quality data (includes CPCB feeds) |
 

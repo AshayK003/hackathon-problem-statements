@@ -57,7 +57,7 @@ An interactive school funding transparency and equity analyzer that:
 | Source | Description |
 |---|---|
 | [NCES Common Core of Data (CCD)](https://nces.ed.gov/ccd/) | School and district characteristics, demographics |
-| [School-Level Finance Survey (SLFS)](https://nces.ed.gov/surveys/slfs/) | Per-pupil spending at the school level (ESSA-mandated) |
+| School-Level Finance Survey (SLFS) | Per-pupil spending at the school level (ESSA-mandated) |
 | [Census Annual Survey of School System Finances](https://www.census.gov/programs-surveys/school-finances.html) | District-level revenue sources and expenditures |
 | [School Finance Indicators Database](https://schoolfinancedata.org/) | State-level funding equity and adequacy measures |
 | [Civil Rights Data Collection (CRDC)](https://ocrdata.ed.gov/) | Equity data: access to courses, discipline, teacher quality |
@@ -72,10 +72,10 @@ An interactive school funding transparency and equity analyzer that:
 
 ## Open Source Adjacencies
 
-- [School Finance Indicators Database](https://github.com/EdDataTools/school-finance-indicators) — R/Stata research tools
+- School Finance Indicators Database — R/Stata research tools
 - [NCES Data Tools](https://nces.ed.gov/ccd/elsi/) — Query tools (proprietary frontend, open data)
-- [edbuild-map](https://github.com/EdBuild/edbuild-map) — School district funding map (static)
-- [education-data-package](https://github.com/CenterForPublicEducation/education-data) — Education data wrappers
+- [edbuild-map](https://edbuildna.org/content/category/tools) — School district funding map
+- education-data-package — Education data wrappers
 - [DecisionLab/funding-formula-simulator](https://github.com/DecisionLab) — State formula simulation research
 
 ## Success Criteria

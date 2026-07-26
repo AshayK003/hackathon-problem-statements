@@ -61,7 +61,7 @@ Every organization deploying AI faces a regulatory explosion: EU AI Act, NYC Loc
 - [FairLearn](https://github.com/microsoft/fairlearn) — 2K stars, Microsoft
 - [Aequitas](https://github.com/dssg/aequitas) — 760 stars, UChicago DSSG
 - [Giskard](https://github.com/Giskard-AI/giskard) — 4K stars, LLM/ML testing
-- [Credo AI Lens](https://github.com/credo-ai/credoai-lens) — AI governance assessment
+- [Credo AI Lens](https://github.com/credo-ai/credoai_lens) — AI governance assessment (archived)
 
 ## Skills Needed
 

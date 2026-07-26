@@ -58,7 +58,7 @@ status: published
 
 - [StillMind](https://github.com/StillMind) — Rule-based triage for student counseling
 - [AI-Mental-Health-Triage](https://github.com/dszohib) — NLP + risk prediction
-- [Aware (29k)](https://github.com/29k/Aware) — AGPL MH awareness app
+- [Aware (29k)](https://github.com/29ki/29k) — AGPL MH awareness app
 
 ## Skills Needed
 

@@ -58,7 +58,7 @@ Family caregivers face agonizing decisions daily: when to take away car keys, mo
 
 ## Open Source Adjacencies
 
-- [RecallMe](https://dev.to/gaurav_pandey_a16499e79dc/building-recallme-an-on-device-ai-companion) — Flutter on-device dementia companion
+- RecallMe — Flutter on-device dementia companion
 - [Beacon](https://github.com/Beacon-Health) — Assistive tech for aging
 - **No comprehensive caregiver decision-support platform is open-source**
 

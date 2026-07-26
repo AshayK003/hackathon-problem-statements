@@ -53,7 +53,7 @@ An intelligent public records assistant that:
 |---|---|
 | [MuckRock API](https://www.muckrock.com/api/) | 500K+ real FOIA requests and responses |
 | [FOIAonline](https://foiaonline.regulations.gov/) | Multi-agency FOIA portal |
-| [DOJ FOIA Annual Reports](https://www.justice.gov/oip/freedom-information-act-annual-reports) | Agency-level FOIA performance data |
+| DOJ FOIA Annual Reports | Agency-level FOIA performance data |
 | [Reporters Committee FOIA Wiki](https://foia.wiki/) | Legal guidance per jurisdiction |
 | [DocumentCloud](https://www.documentcloud.org/) | 10M+ public documents (post-release) |
 | [FOIA.gov](https://www.foia.gov/) | Agency contact info and statistics |
@@ -69,7 +69,7 @@ An intelligent public records assistant that:
 
 - [MuckRock](https://github.com/MuckRock/muckrock) — Drupal-based FOIA filing platform (full-stack)
 - [FOIA Machine](https://foiamachine.com/) — basic tracking (unmaintained)
-- [DocumentCloud](https://github.com/danlamanna/documentcloud) — document management
+- DocumentCloud — document management
 - [foia.gov developer resources](https://www.foia.gov/developer.html) — API docs
 
 ## Success Criteria
